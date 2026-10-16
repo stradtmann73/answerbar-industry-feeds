@@ -48,6 +48,14 @@ function clean(s) {
     .trim();
 }
 
+// Drop photo credits and section labels some outlets put before the text.
+function stripCredits(text) {
+  return text
+    .replace(/^\s*[\w .'&-]{2,40}\/[\w .'&-]{2,40}?\b(Images|Illustrations?|Getty|Unsplash|Stocksy)\b\s*/i, "")
+    .replace(/^\s*(The Research|The Big Idea|Topics|Summary)\s+/i, "")
+    .trim();
+}
+
 function shorten(text, max = 220) {
   if (text.length <= max) return text;
   const cut = text.slice(0, max);
@@ -145,7 +153,7 @@ async function buildIndustry(industry, settings) {
       for (const i of items) {
         byColumn[source.column].push({
           headline: i.title,
-          summary: shorten(i.summary || i.title),
+          summary: shorten(stripCredits(i.summary) || i.title),
           source_name: source.name,
           source_url: i.link,
           published_at: new Date(i.date).toISOString()
