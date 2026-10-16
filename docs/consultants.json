@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-16T18:33:41.397Z",
+  "updated_at": "2026-10-16T18:38:43.003Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -13,25 +13,25 @@
       "label": "Research",
       "items": [
         {
-          "headline": "Social media and democracy around the world",
-          "summary": "Global Attitudes & Trends A digest of the Center's latest findings from its worldwide public opinion surveys and demographic research · Subscribe ↗ In the news Social media harms democracy by spreading rumors, survey...",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/newsletter/global/global-september-2026-newsletter/",
-          "published_at": "2026-10-09T15:17:01.000Z"
-        },
-        {
-          "headline": "Can AI Stand In for Human Survey-Takers? Not Really",
-          "summary": "Synthetic surveys using digital twins do a poor job estimating the public mood and are especially error-prone for some subgroups, including Republicans and Black adults.",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
-          "published_at": "2026-09-30T17:55:17.000Z"
-        },
-        {
           "headline": "Concerns about AI are especially widespread in high-income countries",
           "summary": "People in high-income countries are more likely than those in less wealthy nations to be concerned about AI, as well as its impact on jobs and economic inequality.",
           "source_name": "Pew Research Center",
           "source_url": "https://www.pewresearch.org/global/2026/09/17/concerns-about-ai-are-especially-widespread-in-high-income-countries/",
           "published_at": "2026-09-17T13:59:58.000Z"
+        },
+        {
+          "headline": "What do young people around the world think about AI?",
+          "summary": "A 37-country survey finds that young adults are particularly worried about AI leading to fewer jobs. Still, they're more likely than older people to feel both excited and concerned about AI.",
+          "source_name": "Pew Research Center",
+          "source_url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
+          "published_at": "2026-09-17T13:59:57.000Z"
+        },
+        {
+          "headline": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+          "summary": "Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.",
+          "source_name": "Pew Research Center",
+          "source_url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+          "published_at": "2026-09-17T13:59:56.000Z"
         }
       ]
     },
@@ -40,25 +40,11 @@
       "label": "News",
       "items": [
         {
-          "headline": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
-          "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising academics and practitioners to help us understand how responsible...",
-          "source_name": "MIT Sloan Management Review",
-          "source_url": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
-          "published_at": "2026-10-15T11:00:55.000Z"
-        },
-        {
           "headline": "The New Rules of Brand Visibility in AI Search",
           "summary": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and...",
           "source_name": "MIT Sloan Management Review",
           "source_url": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
           "published_at": "2026-10-13T11:00:34.000Z"
-        },
-        {
-          "headline": "Responsible AI Means Knowing the Limits of Agent Autonomy",
-          "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts that includes academics and practitioners to help us understand how...",
-          "source_name": "MIT Sloan Management Review",
-          "source_url": "https://sloanreview.mit.edu/article/responsible-ai-means-knowing-the-limits-of-agent-autonomy/",
-          "published_at": "2026-09-08T11:00:36.000Z"
         }
       ]
     }
@@ -77,7 +63,7 @@
     {
       "source": "Pew Research Center",
       "ok": true,
-      "kept": 6
+      "kept": 4
     },
     {
       "source": "NPR",
@@ -92,7 +78,7 @@
     {
       "source": "MIT Sloan Management Review",
       "ok": true,
-      "kept": 3
+      "kept": 1
     }
   ]
 }
