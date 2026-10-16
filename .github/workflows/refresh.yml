@@ -1,0 +1,39 @@
+name: Refresh industry feeds
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours, like the Intelligence Desk
+  workflow_dispatch: {}        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-industry-feeds
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Pull feeds and rebuild the page data
+        run: node build.mjs
+
+      - name: Publish if anything changed
+        run: |
+          git config user.name "answerbar-feeds-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Refresh industry feeds"
+            git push
+          fi

@@ -1,0 +1,61 @@
+{
+  "maxItemsPerColumn": 3,
+  "keepDays": 180,
+  "industries": [
+    {
+      "key": "consultants",
+      "title": "Independent consultants and coaches",
+      "columns": [
+        { "key": "professional_bodies", "label": "Professional bodies" },
+        { "key": "research", "label": "Research" },
+        { "key": "news", "label": "News" }
+      ],
+      "sources": [
+        {
+          "name": "International Coaching Federation",
+          "type": "Professional association",
+          "feed": "https://coachingfederation.org/feed/",
+          "column": "professional_bodies",
+          "require": ["ai"]
+        },
+        {
+          "name": "Chartered Management Institute",
+          "type": "Professional body",
+          "feed": "https://www.managers.org.uk/feed/",
+          "column": "professional_bodies",
+          "require": ["ai"]
+        },
+        {
+          "name": "Pew Research Center",
+          "type": "Research nonprofit",
+          "feed": "https://www.pewresearch.org/feed/",
+          "column": "research",
+          "require": ["ai", "work"]
+        },
+        {
+          "name": "NPR",
+          "type": "News outlet",
+          "feed": "https://feeds.npr.org/1006/rss.xml",
+          "column": "news",
+          "require": ["ai", "work"]
+        },
+        {
+          "name": "Harvard Business Review",
+          "type": "University publisher",
+          "feed": "https://feeds.hbr.org/harvardbusiness",
+          "column": "news",
+          "require": ["ai", "work"],
+          "note": "Not yet confirmed from the job. If it fails, the job skips it."
+        },
+        {
+          "name": "MIT Sloan Management Review",
+          "type": "University publisher",
+          "feed": "https://sloanreview.mit.edu/feed/",
+          "column": "news",
+          "require": ["ai", "work"],
+          "note": "Not yet confirmed from the job. If it fails, the job skips it."
+        }
+      ]
+    }
+  ]
+}
