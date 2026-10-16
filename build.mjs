@@ -14,12 +14,12 @@ const ROOT = path.dirname(new URL(import.meta.url).pathname);
 const OUT_DIR = path.join(ROOT, "docs");
 const FIXTURE_DIR = process.env.FIXTURE_DIR ? path.resolve(process.env.FIXTURE_DIR) : null;
 const NOW = process.env.NOW ? new Date(process.env.NOW) : new Date();
-const USER_AGENT = "AnswerBarIndustryFeeds/1.0 (+https://www.answerbar.io)";
+const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36 AnswerBarIndustryFeeds/1.0";
 
 // Whole-word matching, so "ai" does not match "said" or "maintain".
 const TERMS = {
   ai: /\b(ai|a\.i\.|artificial intelligence|generative|genai|gen ai|chatgpt|llms?|large language models?|machine learning|chatbots?|copilot|automation)\b/i,
-  work: /\b(workers?|workforce|workplace|jobs?|employ\w*|careers?|consult\w*|coach\w*|advis\w*|freelanc\w*|self-employed|small business\w*|professional services|labou?r market)\b/i
+  work: /\b(workers?|workforce|workplace|jobs|job (loss|losses|market|growth|cuts|seekers?|security)|employ\w*|careers?|consult\w*|coach\w*|advis\w*|freelanc\w*|self-employed|small business\w*|professional services|labou?r market)\b/i
 };
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
@@ -56,6 +56,16 @@ function shorten(text, max = 220) {
   return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:]$/, "") + "...";
 }
 
+// First paragraph of real text from a feed description, skipping figures, captions and credits.
+function lead(html) {
+  const body = decode(html ?? "").replace(/<(figure|figcaption|picture|style|script)\b[\s\S]*?<\/\1>/gi, " ");
+  for (const m of body.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)) {
+    const t = clean(m[1]);
+    if (t.length >= 60 && !/subscribe/i.test(t)) return t;
+  }
+  return clean(body);
+}
+
 function tag(block, name) {
   const m = block.match(new RegExp(`<${name}\\b[^>]*>([\\s\\S]*?)</${name}>`, "i"));
   return m ? m[1].trim() : null;
@@ -68,7 +78,7 @@ function parseFeed(xml) {
       title: clean(tag(block, "title")),
       link: clean(tag(block, "link")),
       date: tag(block, "pubDate") ?? tag(block, "dc:date"),
-      summary: clean(tag(block, "description") ?? "")
+      summary: lead(tag(block, "description") ?? tag(block, "content:encoded"))
     });
   }
   for (const block of xml.match(/<entry\b[\s\S]*?<\/entry>/gi) ?? []) {
@@ -77,7 +87,7 @@ function parseFeed(xml) {
       title: clean(tag(block, "title")),
       link: href ? decode(href[1]) : "",
       date: tag(block, "published") ?? tag(block, "updated"),
-      summary: clean(tag(block, "summary") ?? tag(block, "content") ?? "")
+      summary: lead(tag(block, "summary") ?? tag(block, "content"))
     });
   }
   return items;
@@ -86,7 +96,7 @@ function parseFeed(xml) {
 async function loadFeed(source) {
   if (FIXTURE_DIR) return readFile(path.join(FIXTURE_DIR, `${slug(source.name)}.xml`), "utf8");
   const res = await fetch(source.feed, {
-    headers: { "User-Agent": USER_AGENT, Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml" },
+    headers: { "User-Agent": USER_AGENT, Accept: "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5", "Accept-Language": "en-US,en;q=0.9" },
     signal: AbortSignal.timeout(20000)
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -106,7 +116,8 @@ function keep(item, source, cutoff) {
   if (Number.isNaN(when.getTime()) || when < cutoff || when > new Date(NOW.getTime() + 864e5)) return false;
   // Links must stay on the outlet that published them (no redirects through third parties).
   if (siteOf(source.feed) !== siteOf(item.link)) return false;
-  const text = `${item.title} ${item.summary}`;
+  if (/\/newsletters?\//i.test(item.link)) return false;
+  const text = `${item.title} ${item.summary.slice(0, 300)}`.replace(/\b[A-Z][\w&]* Consulting Group\b/g, "");
   return source.require.every((t) => TERMS[t].test(text));
 }
 
@@ -120,7 +131,12 @@ async function buildIndustry(industry, settings) {
   // Start from what was published last time, so a feed that is down does not empty a column.
   for (const col of previous?.columns ?? []) {
     if (!byColumn[col.key]) continue;
-    for (const it of col.items) if (new Date(it.published_at) >= cutoff) byColumn[col.key].push(it);
+    for (const it of col.items) {
+      // Re-check carried items against today's rules, so a rule change also cleans out old picks.
+      const source = industry.sources.find((s) => s.name === it.source_name && s.column === col.key);
+      const asFeedItem = { title: it.headline, link: it.source_url, date: it.published_at, summary: it.summary };
+      if (source && keep(asFeedItem, source, cutoff)) byColumn[col.key].push(it);
+    }
   }
 
   for (const source of industry.sources) {
