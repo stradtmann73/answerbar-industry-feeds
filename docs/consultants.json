@@ -1,12 +1,34 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-16T18:38:43.003Z",
+  "updated_at": "2026-10-16T18:40:27.947Z",
   "columns": [
     {
       "key": "professional_bodies",
       "label": "Professional bodies",
-      "items": []
+      "items": [
+        {
+          "headline": "Responsible Use of AI in Consulting: What IMC USA's AI Code Means for You",
+          "summary": "Imagine this: It's Friday evening, and a client report is due Monday. Dana uses an AI tool to draft a market analysis. The result is clean, confident and well organized. […]",
+          "source_name": "Institute of Management Consultants USA",
+          "source_url": "https://www.imcusa.org/responsible-use-of-ai-in-consulting-what-imc-usas-ai-code-means-for-you/",
+          "published_at": "2026-10-07T03:16:08.000Z"
+        },
+        {
+          "headline": "EMBRACING AI FOR OPERATIONAL RESILIENCE PURPOSES",
+          "summary": "KPMG KPMG explores how AI can strengthen operational resilience by helping organisations identify vulnerabilities, map dependencies, improve scenario testing and respond more effectively to disruption.",
+          "source_name": "Management Consultancies Association",
+          "source_url": "https://www.mca.org.uk/thought-leadership/embracing-ai-for-operational-resilience-purposes",
+          "published_at": "2026-09-23T23:02:51.000Z"
+        },
+        {
+          "headline": "PwC's ANNUAL REPORT 2026, A WORLD OF NEW FRONTIERS",
+          "summary": "PwC PwC UK's 2026 Annual Report, A World of New Frontiers, explores how businesses are navigating a landscape reshaped by AI, geopolitical disruption and increasingly interconnected challenges.",
+          "source_name": "Management Consultancies Association",
+          "source_url": "https://www.mca.org.uk/thought-leadership/pwcs-annual-report-2026-a-world-of-new-frontiers",
+          "published_at": "2026-09-23T23:02:28.000Z"
+        }
+      ]
     },
     {
       "key": "research",
@@ -41,7 +63,7 @@
       "items": [
         {
           "headline": "The New Rules of Brand Visibility in AI Search",
-          "summary": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and...",
+          "summary": "The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how...",
           "source_name": "MIT Sloan Management Review",
           "source_url": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
           "published_at": "2026-10-13T11:00:34.000Z"
@@ -59,6 +81,36 @@
       "source": "Chartered Management Institute",
       "ok": true,
       "kept": 0
+    },
+    {
+      "source": "Institute of Management Consultants USA",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "Management Consultancies Association",
+      "ok": true,
+      "kept": 3
+    },
+    {
+      "source": "Association for Coaching",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "source": "Institute of Coaching",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "source": "EMCC Global",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "International Coaching Federation (blog feed)",
+      "ok": false,
+      "error": "HTTP 403"
     },
     {
       "source": "Pew Research Center",
