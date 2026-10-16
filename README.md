@@ -6,18 +6,13 @@ This is separate from the Intelligence Desk. It does not touch the Desk's repo o
 
 ## What it publishes
 
-`https://stradtmann73.github.io/answerbar-industry-feeds/consultants.json`
+`https://raw.githubusercontent.com/stradtmann73/answerbar-industry-feeds/main/docs/consultants.json`
 
 The consultants page block already points at that address. If you create the repo under a different account or name, change the `data-feed-url` line at the top of the page block to match.
 
-## One-time setup (about 5 minutes)
+## Setup
 
-1. On GitHub, create a new **public** repo named `answerbar-industry-feeds` under the `stradtmann73` account. GitHub Pages is free for public repos.
-2. Upload everything in this folder, including the hidden `.github` folder and `docs/.nojekyll`.
-3. **Settings > Actions > General > Workflow permissions:** choose "Read and write permissions" and save. The job needs this to publish its file.
-4. **Settings > Pages:** set Source to "Deploy from a branch", branch `main`, folder `/docs`, and save.
-5. **Actions tab > Refresh industry feeds > Run workflow.** This runs it once now instead of waiting up to 6 hours.
-6. Open the address above. You should see the consultants items. The page picks them up on its next load.
+Nothing to configure. The job runs every 6 hours, and also right away whenever `industries.json` or `build.mjs` changes. The page reads the file straight from this repo, so GitHub Pages is not needed. To run it by hand: **Actions tab > Refresh industry feeds > Run workflow.**
 
 ## How it decides what to show
 
