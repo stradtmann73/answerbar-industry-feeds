@@ -145,7 +145,7 @@ async function buildIndustry(industry, settings) {
       // Re-check carried items against today's rules, so a rule change also cleans out old picks.
       const source = industry.sources.find((s) => s.name === it.source_name && s.column === col.key);
       const asFeedItem = { title: it.headline, link: it.source_url, date: it.published_at, summary: it.summary };
-      if (source && keep(asFeedItem, source, cutoff)) byColumn[col.key].push(it);
+      if (source && keep(asFeedItem, source, cutoff)) byColumn[col.key].push({ ...it, summary: stripCredits(it.summary) });
     }
   }
 
