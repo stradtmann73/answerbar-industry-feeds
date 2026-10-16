@@ -53,6 +53,8 @@ function stripCredits(text) {
   return text
     .replace(/^\s*[\w .'&-]{2,40}\/[\w .'&-]{2,40}?\b(Images|Illustrations?|Getty|Unsplash|Stocksy)\b\s*/i, "")
     .replace(/^\s*(The Research|The Big Idea|Topics|Summary)\s+/i, "")
+    .replace(/\s*\[(\u2026|\.\.\.)\]\s*$/, "")
+    .replace(/\s*The post .* appeared first on .*$/i, "")
     .trim();
 }
 
