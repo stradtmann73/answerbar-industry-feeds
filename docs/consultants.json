@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-16T18:40:27.947Z",
+  "updated_at": "2026-10-16T18:42:08.468Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -13,20 +13,6 @@
           "source_name": "Institute of Management Consultants USA",
           "source_url": "https://www.imcusa.org/responsible-use-of-ai-in-consulting-what-imc-usas-ai-code-means-for-you/",
           "published_at": "2026-10-07T03:16:08.000Z"
-        },
-        {
-          "headline": "EMBRACING AI FOR OPERATIONAL RESILIENCE PURPOSES",
-          "summary": "KPMG KPMG explores how AI can strengthen operational resilience by helping organisations identify vulnerabilities, map dependencies, improve scenario testing and respond more effectively to disruption.",
-          "source_name": "Management Consultancies Association",
-          "source_url": "https://www.mca.org.uk/thought-leadership/embracing-ai-for-operational-resilience-purposes",
-          "published_at": "2026-09-23T23:02:51.000Z"
-        },
-        {
-          "headline": "PwC's ANNUAL REPORT 2026, A WORLD OF NEW FRONTIERS",
-          "summary": "PwC PwC UK's 2026 Annual Report, A World of New Frontiers, explores how businesses are navigating a landscape reshaped by AI, geopolitical disruption and increasingly interconnected challenges.",
-          "source_name": "Management Consultancies Association",
-          "source_url": "https://www.mca.org.uk/thought-leadership/pwcs-annual-report-2026-a-world-of-new-frontiers",
-          "published_at": "2026-09-23T23:02:28.000Z"
         }
       ]
     },
@@ -73,11 +59,6 @@
   ],
   "sources": [
     {
-      "source": "International Coaching Federation",
-      "ok": false,
-      "error": "HTTP 403"
-    },
-    {
       "source": "Chartered Management Institute",
       "ok": true,
       "kept": 0
@@ -85,32 +66,12 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
-    },
-    {
-      "source": "Management Consultancies Association",
-      "ok": true,
-      "kept": 3
-    },
-    {
-      "source": "Association for Coaching",
-      "ok": false,
-      "error": "HTTP 403"
-    },
-    {
-      "source": "Institute of Coaching",
-      "ok": false,
-      "error": "HTTP 404"
+      "kept": 0
     },
     {
       "source": "EMCC Global",
       "ok": true,
       "kept": 0
-    },
-    {
-      "source": "International Coaching Federation (blog feed)",
-      "ok": false,
-      "error": "HTTP 403"
     },
     {
       "source": "Pew Research Center",
@@ -121,11 +82,6 @@
       "source": "NPR",
       "ok": true,
       "kept": 0
-    },
-    {
-      "source": "Harvard Business Review",
-      "ok": false,
-      "error": "fetch failed"
     },
     {
       "source": "MIT Sloan Management Review",
