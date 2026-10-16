@@ -21,15 +21,6 @@
       ],
       "sources": [
         {
-          "name": "International Coaching Federation",
-          "type": "Professional association",
-          "feed": "https://coachingfederation.org/feed/",
-          "column": "professional_bodies",
-          "require": [
-            "ai"
-          ]
-        },
-        {
           "name": "Chartered Management Institute",
           "type": "Professional body",
           "feed": "https://www.managers.org.uk/feed/",
@@ -45,38 +36,7 @@
           "column": "professional_bodies",
           "require": [
             "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
-        },
-        {
-          "name": "Management Consultancies Association",
-          "type": "Professional association",
-          "feed": "https://www.mca.org.uk/feed/",
-          "column": "professional_bodies",
-          "require": [
-            "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
-        },
-        {
-          "name": "Association for Coaching",
-          "type": "Professional association",
-          "feed": "https://www.associationforcoaching.com/feed/",
-          "column": "professional_bodies",
-          "require": [
-            "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
-        },
-        {
-          "name": "Institute of Coaching",
-          "type": "Professional association",
-          "feed": "https://instituteofcoaching.org/feed",
-          "column": "professional_bodies",
-          "require": [
-            "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "EMCC Global",
@@ -85,18 +45,7 @@
           "column": "professional_bodies",
           "require": [
             "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
-        },
-        {
-          "name": "International Coaching Federation (blog feed)",
-          "type": "Professional association",
-          "feed": "https://coachingfederation.org/blog/feed/",
-          "column": "professional_bodies",
-          "require": [
-            "ai"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "Pew Research Center",
@@ -119,17 +68,6 @@
           ]
         },
         {
-          "name": "Harvard Business Review",
-          "type": "University publisher",
-          "feed": "https://feeds.hbr.org/harvardbusiness",
-          "column": "news",
-          "require": [
-            "ai",
-            "work"
-          ],
-          "note": "Not yet confirmed from the job. If it fails, the job skips it."
-        },
-        {
           "name": "MIT Sloan Management Review",
           "type": "University publisher",
           "feed": "https://sloanreview.mit.edu/feed/",
@@ -137,8 +75,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Not yet confirmed from the job. If it fails, the job skips it."
+          ]
         }
       ]
     }

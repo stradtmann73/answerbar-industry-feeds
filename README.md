@@ -17,11 +17,21 @@ Nothing to configure. The job runs every 6 hours, and also right away whenever `
 ## How it decides what to show
 
 - **Sources** are listed in `industries.json`. Only credible organizations: professional associations, research nonprofits, university publishers and news outlets. No companies writing about their own products.
-- **Filters.** Every item must mention AI. Items from Pew, NPR, HBR and MIT Sloan must also mention work, such as jobs, workers, consultants, coaches, advisors, freelancers or small business. Matching is whole-word, so "ai" doesn't match "said."
+  - Professional bodies: Institute of Management Consultants USA, EMCC Global, Chartered Management Institute
+  - Research: Pew Research Center
+  - News: MIT Sloan Management Review, NPR Business
+- **Filters.** Every item must mention AI in its headline or opening. Items from Pew, MIT Sloan and NPR must also mention work, such as jobs, workers, consultants, coaches, advisors, freelancers or small business. Matching is whole-word, so "ai" doesn't match "said." Newsletter digests are skipped.
 - **Links** must point to the outlet that published the item.
-- **Up to 3 items per column,** newest first, from the last 180 days.
+- **Up to 3 items per column,** newest first, from the last 180 days. Columns with nothing current are hidden on the page.
 - **If a feed is down,** the items it published before stay up. A broken feed never empties a column.
-- **Sources not yet confirmed:** Harvard Business Review and MIT Sloan Management Review. The job tries them every run. The `sources` list at the bottom of `consultants.json` shows which feeds worked on the last run.
+- The `sources` list at the bottom of `consultants.json` shows which feeds worked on the last run.
+
+## Tried and left out (October 16, 2026)
+
+- **International Coaching Federation, Association for Coaching:** they block GitHub's servers (HTTP 403).
+- **Institute of Coaching:** no feed at the expected address (HTTP 404).
+- **Harvard Business Review:** the feed could not be reached.
+- **Management Consultancies Association:** its feed is mostly member firms (KPMG, PwC and others) promoting their own reports.
 
 ## Adding the next industry page
 
