@@ -66,7 +66,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "EMCC Global",
@@ -76,7 +76,7 @@
     {
       "source": "Pew Research Center",
       "ok": true,
-      "kept": 4
+      "kept": 1
     },
     {
       "source": "NPR",
