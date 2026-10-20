@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-16T18:45:38.714Z",
+  "updated_at": "2026-10-20T11:32:23.982Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,6 +48,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "What if an AI bubble bursts, and that accelerates AI job losses?",
+          "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+          "source_name": "NPR",
+          "source_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+          "published_at": "2026-10-20T10:30:00.000Z"
+        },
+        {
           "headline": "The New Rules of Brand Visibility in AI Search",
           "summary": "The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how...",
           "source_name": "MIT Sloan Management Review",
@@ -81,7 +88,7 @@
     {
       "source": "NPR",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MIT Sloan Management Review",
