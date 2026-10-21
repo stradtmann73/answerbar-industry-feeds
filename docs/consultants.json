@@ -72,8 +72,8 @@
     },
     {
       "source": "Institute of Management Consultants USA",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "kept": 1
     },
     {
       "source": "EMCC Global",
