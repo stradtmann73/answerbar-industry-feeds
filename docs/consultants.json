@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-20T11:32:23.982Z",
+  "updated_at": "2026-10-22T17:08:03.455Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -21,6 +21,13 @@
       "label": "Research",
       "items": [
         {
+          "headline": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
+          "summary": "Men's employment grew faster than women's in occupations most exposed to AI, a gap driven largely by workers without a bachelor's degree.",
+          "source_name": "Pew Research Center",
+          "source_url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
+          "published_at": "2026-10-22T11:59:46.000Z"
+        },
+        {
           "headline": "Concerns about AI are especially widespread in high-income countries",
           "summary": "People in high-income countries are more likely than those in less wealthy nations to be concerned about AI, as well as its impact on jobs and economic inequality.",
           "source_name": "Pew Research Center",
@@ -33,13 +40,6 @@
           "source_name": "Pew Research Center",
           "source_url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
           "published_at": "2026-09-17T13:59:57.000Z"
-        },
-        {
-          "headline": "Globally, More People Expect AI to Cause Job Loss Than Growth",
-          "summary": "Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
-          "published_at": "2026-09-17T13:59:56.000Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "EMCC Global",
@@ -83,7 +83,7 @@
     {
       "source": "Pew Research Center",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "NPR",
