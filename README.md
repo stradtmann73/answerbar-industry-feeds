@@ -18,11 +18,12 @@ Nothing to configure. The job runs every 6 hours, and also right away whenever `
 
 - **Sources** are listed in `industries.json`. Only credible organizations: professional associations, research nonprofits, university publishers and news outlets. No companies writing about their own products.
   - Professional bodies: Institute of Management Consultants USA, EMCC Global, Chartered Management Institute
-  - Research: Pew Research Center
-  - News: MIT Sloan Management Review, NPR Business
+  - Research: Pew Research Center, Brookings, The Conversation
+  - News: MIT Sloan Management Review, MIT Technology Review, NPR Business, NPR Technology, The Guardian, BBC News
 - **Filters.** Every item must mention AI in its headline or opening. Items from Pew, MIT Sloan and NPR must also mention work, such as jobs, workers, consultants, coaches, advisors, freelancers or small business. Matching is whole-word, so "ai" doesn't match "said." Newsletter digests are skipped.
 - **Links** must point to the outlet that published the item.
-- **Up to 3 items per column,** newest first, from the last 180 days. Columns with nothing current are hidden on the page.
+- **Recent first.** Up to 3 items per column from the last 30 days, newest first. Older items (up to 180 days) only come back when the whole section would otherwise show fewer than 4. Columns with nothing to show are hidden on the page.
+- **One story, one entry.** When two outlets run the same story, only the newest one shows.
 - **If a feed is down,** the items it published before stay up. A broken feed never empties a column.
 - The `sources` list at the bottom of `consultants.json` shows which feeds worked on the last run.
 
@@ -31,6 +32,7 @@ Nothing to configure. The job runs every 6 hours, and also right away whenever `
 - **International Coaching Federation, Association for Coaching:** they block GitHub's servers (HTTP 403).
 - **Institute of Coaching:** no feed at the expected address (HTTP 404).
 - **Harvard Business Review:** the feed could not be reached.
+- **Knowledge at Wharton:** blocks GitHub's servers (HTTP 403). Tried October 23, 2026.
 - **Management Consultancies Association:** its feed is mostly member firms (KPMG, PwC and others) promoting their own reports.
 
 ## Adding the next industry page

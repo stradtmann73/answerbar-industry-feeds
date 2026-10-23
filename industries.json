@@ -78,17 +78,6 @@
           ]
         },
         {
-          "name": "Knowledge at Wharton",
-          "type": "University publisher",
-          "feed": "https://knowledge.wharton.upenn.edu/feed/",
-          "column": "research",
-          "require": [
-            "ai",
-            "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
-        },
-        {
           "name": "Brookings",
           "type": "Research nonprofit",
           "feed": "https://www.brookings.edu/topic/artificial-intelligence/feed/",
@@ -96,8 +85,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "The Conversation",
@@ -107,8 +95,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "MIT Technology Review",
@@ -118,8 +105,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "The Guardian",
@@ -129,8 +115,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         },
         {
           "name": "BBC News",
@@ -141,7 +126,6 @@
             "ai",
             "work"
           ],
-          "note": "Trial: kept only if the job can read it.",
           "linkSite": [
             "bbc.com",
             "bbc.co.uk"
@@ -155,8 +139,7 @@
           "require": [
             "ai",
             "work"
-          ],
-          "note": "Trial: kept only if the job can read it."
+          ]
         }
       ]
     }

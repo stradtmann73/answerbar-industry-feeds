@@ -176,14 +176,25 @@ async function buildIndustry(industry, settings) {
       .filter((i) => (seen.has(i.source_url) ? false : seen.add(i.source_url)))
       .sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
   });
-  const picked = sorted.map((list) => list.filter((i) => new Date(i.published_at) >= freshCut).slice(0, settings.maxItemsPerColumn));
+  // The same story from two outlets shows once: skip a headline that shares most of its key words with one already picked.
+  const words = (h) => new Set(h.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").split(" ").filter((w) => w.length > 3 || /^\d/.test(w)));
+  const taken = [];
+  const sameStory = (i) => {
+    const w = words(i.headline);
+    return taken.some((t) => { let n = 0; for (const x of w) if (t.has(x)) n++; return n >= 3 && n / Math.min(w.size, t.size) >= 0.5; });
+  };
+  const take = (i) => { if (sameStory(i)) return false; taken.push(words(i.headline)); return true; };
+  const allFresh = sorted.flatMap((list, ci) => list.filter((i) => new Date(i.published_at) >= freshCut).map((i) => ({ i, ci })))
+    .sort((a, b) => new Date(b.i.published_at) - new Date(a.i.published_at));
+  const picked = industry.columns.map(() => []);
+  for (const { i, ci } of allFresh) if (picked[ci].length < settings.maxItemsPerColumn && take(i)) picked[ci].push(i);
   const want = settings.minSectionItems ?? 4;
   const older = sorted
     .flatMap((list, ci) => list.filter((i) => new Date(i.published_at) < freshCut).map((i) => ({ i, ci })))
     .sort((a, b) => new Date(b.i.published_at) - new Date(a.i.published_at));
   for (const { i, ci } of older) {
     if (picked.reduce((n, l) => n + l.length, 0) >= want) break;
-    if (picked[ci].length < settings.maxItemsPerColumn) picked[ci].push(i);
+    if (picked[ci].length < settings.maxItemsPerColumn && take(i)) picked[ci].push(i);
   }
   const columns = industry.columns.map((c, ci) => ({ key: c.key, label: c.label, items: picked[ci] }));
 
