@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-23T19:04:18.217Z",
+  "updated_at": "2026-10-23T19:06:22.954Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -55,11 +55,11 @@
           "published_at": "2026-10-22T14:39:29.000Z"
         },
         {
-          "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-          "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-22T14:28:59.000Z"
+          "headline": "AI adoption by industry shows what other sectors can learn",
+          "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley.",
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+          "published_at": "2026-10-20T12:00:00.000Z"
         }
       ]
     }
@@ -94,11 +94,6 @@
       "source": "MIT Sloan Management Review",
       "ok": true,
       "kept": 1
-    },
-    {
-      "source": "Knowledge at Wharton",
-      "ok": false,
-      "error": "HTTP 403"
     },
     {
       "source": "Brookings",
