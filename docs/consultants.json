@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-22T17:08:03.455Z",
+  "updated_at": "2026-10-23T19:04:18.217Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -28,18 +28,11 @@
           "published_at": "2026-10-22T11:59:46.000Z"
         },
         {
-          "headline": "Concerns about AI are especially widespread in high-income countries",
-          "summary": "People in high-income countries are more likely than those in less wealthy nations to be concerned about AI, as well as its impact on jobs and economic inequality.",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/global/2026/09/17/concerns-about-ai-are-especially-widespread-in-high-income-countries/",
-          "published_at": "2026-09-17T13:59:58.000Z"
-        },
-        {
-          "headline": "What do young people around the world think about AI?",
-          "summary": "A 37-country survey finds that young adults are particularly worried about AI leading to fewer jobs. Still, they're more likely than older people to feel both excited and concerned about AI.",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
-          "published_at": "2026-09-17T13:59:57.000Z"
+          "headline": "New AI shopping agents promise better bargains. But who pays the price?",
+          "summary": "As AI agents begin shopping on our behalf, there's a real risk cheaper products could put more pressure on vulnerable workers in global supply chains.",
+          "source_name": "The Conversation",
+          "source_url": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461",
+          "published_at": "2026-10-19T19:15:36.000Z"
         }
       ]
     },
@@ -48,18 +41,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "What if an AI bubble bursts, and that accelerates AI job losses?",
-          "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
-          "source_name": "NPR",
-          "source_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-          "published_at": "2026-10-20T10:30:00.000Z"
+          "headline": "The Indian workers filming their work to train AI",
+          "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-23T08:04:17.000Z"
         },
         {
-          "headline": "The New Rules of Brand Visibility in AI Search",
-          "summary": "The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how...",
-          "source_name": "MIT Sloan Management Review",
-          "source_url": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
-          "published_at": "2026-10-13T11:00:34.000Z"
+          "headline": "Barclays to cut 5,000 jobs as bank's bosses hail AI productivity advances",
+          "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+          "published_at": "2026-10-22T14:39:29.000Z"
+        },
+        {
+          "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-22T14:28:59.000Z"
         }
       ]
     }
@@ -73,7 +73,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "EMCC Global",
@@ -94,6 +94,41 @@
       "source": "MIT Sloan Management Review",
       "ok": true,
       "kept": 1
+    },
+    {
+      "source": "Knowledge at Wharton",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "source": "Brookings",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "The Conversation",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "MIT Technology Review",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "The Guardian",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "BBC News",
+      "ok": true,
+      "kept": 2
+    },
+    {
+      "source": "NPR Technology",
+      "ok": true,
+      "kept": 2
     }
   ]
 }
