@@ -125,7 +125,7 @@ function keep(item, source, cutoff) {
   const when = new Date(item.date);
   if (Number.isNaN(when.getTime()) || when < cutoff || when > new Date(NOW.getTime() + 864e5)) return false;
   // Links must stay on the outlet that published them (no redirects through third parties).
-  if (siteOf(source.feed) !== siteOf(item.link)) return false;
+  if (![].concat(source.linkSite || siteOf(source.feed)).includes(siteOf(item.link))) return false;
   if (/\/newsletters?\//i.test(item.link)) return false;
   const text = `${item.title} ${item.summary.slice(0, 300)}`.replace(/\b[A-Z][\w&]* Consulting Group\b/g, "");
   return source.require.every((t) => TERMS[t].test(text));
@@ -167,14 +167,25 @@ async function buildIndustry(industry, settings) {
     }
   }
 
-  const columns = industry.columns.map((c) => {
+  // Recent first: items from the last freshDays fill the columns. Older items only come back
+  // when the whole section would otherwise show fewer than minSectionItems.
+  const freshCut = new Date(NOW.getTime() - (settings.freshDays ?? 30) * 864e5);
+  const sorted = industry.columns.map((c) => {
     const seen = new Set();
-    const items = byColumn[c.key]
+    return byColumn[c.key]
       .filter((i) => (seen.has(i.source_url) ? false : seen.add(i.source_url)))
-      .sort((a, b) => new Date(b.published_at) - new Date(a.published_at))
-      .slice(0, settings.maxItemsPerColumn);
-    return { key: c.key, label: c.label, items };
+      .sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
   });
+  const picked = sorted.map((list) => list.filter((i) => new Date(i.published_at) >= freshCut).slice(0, settings.maxItemsPerColumn));
+  const want = settings.minSectionItems ?? 4;
+  const older = sorted
+    .flatMap((list, ci) => list.filter((i) => new Date(i.published_at) < freshCut).map((i) => ({ i, ci })))
+    .sort((a, b) => new Date(b.i.published_at) - new Date(a.i.published_at));
+  for (const { i, ci } of older) {
+    if (picked.reduce((n, l) => n + l.length, 0) >= want) break;
+    if (picked[ci].length < settings.maxItemsPerColumn) picked[ci].push(i);
+  }
+  const columns = industry.columns.map((c, ci) => ({ key: c.key, label: c.label, items: picked[ci] }));
 
   const changed = JSON.stringify(columns) !== JSON.stringify(previous?.columns);
   const out = {

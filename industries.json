@@ -76,8 +76,91 @@
             "ai",
             "work"
           ]
+        },
+        {
+          "name": "Knowledge at Wharton",
+          "type": "University publisher",
+          "feed": "https://knowledge.wharton.upenn.edu/feed/",
+          "column": "research",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
+        },
+        {
+          "name": "Brookings",
+          "type": "Research nonprofit",
+          "feed": "https://www.brookings.edu/topic/artificial-intelligence/feed/",
+          "column": "research",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
+        },
+        {
+          "name": "The Conversation",
+          "type": "Academic news outlet",
+          "feed": "https://theconversation.com/us/topics/artificial-intelligence-ai-90/articles.atom",
+          "column": "research",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
+        },
+        {
+          "name": "MIT Technology Review",
+          "type": "University publisher",
+          "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+          "column": "news",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
+        },
+        {
+          "name": "The Guardian",
+          "type": "News outlet",
+          "feed": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+          "column": "news",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
+        },
+        {
+          "name": "BBC News",
+          "type": "News outlet",
+          "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+          "column": "news",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it.",
+          "linkSite": [
+            "bbc.com",
+            "bbc.co.uk"
+          ]
+        },
+        {
+          "name": "NPR Technology",
+          "type": "News outlet",
+          "feed": "https://feeds.npr.org/1019/rss.xml",
+          "column": "news",
+          "require": [
+            "ai",
+            "work"
+          ],
+          "note": "Trial: kept only if the job can read it."
         }
       ]
     }
-  ]
+  ],
+  "freshDays": 30,
+  "minSectionItems": 4
 }
