@@ -2,38 +2,38 @@
   "key": "founders-new-businesses",
   "title": "Founders and new businesses",
   "columns": [
-    {
-      "key": "professional_bodies",
-      "label": "Professional bodies"
-    },
-    {
-      "key": "research",
-      "label": "Research"
-    },
-    {
-      "key": "news",
-      "label": "News"
-    }
+    { "key": "professional_bodies", "label": "Professional bodies" },
+    { "key": "research", "label": "Research" },
+    { "key": "news", "label": "News" }
   ],
   "sources": [
-    {
-      "name": "Inc.",
-      "type": "News outlet",
-      "feed": "https://www.inc.com/rss",
-      "column": "news",
-      "require": [
-        "ai"
-      ]
-    },
-    {
-      "name": "Fortune",
-      "type": "News outlet",
-      "feed": "https://fortune.com/feed/fortune-feeds/?id=3230629",
-      "column": "news",
-      "require": [
-        "ai",
-        "founders"
-      ]
-    }
+    { "name": "U.S. Chamber of Commerce", "type": "Professional association", "feed": "https://www.uschamber.com/rss/feed.rss", "column": "professional_bodies", "require": ["ai", "founders"] },
+    { "name": "SBA Office of Advocacy", "type": "Government agency", "feed": "https://advocacy.sba.gov/feed/", "column": "professional_bodies", "require": ["ai"] },
+    { "name": "Small Business Majority", "type": "Professional association", "feed": "https://smallbusinessmajority.org/rss.xml", "column": "professional_bodies", "require": ["ai"] },
+    { "name": "Small Business and Entrepreneurship Council", "type": "Professional association", "feed": "https://sbecouncil.org/feed/", "column": "professional_bodies", "require": ["ai"] },
+    { "name": "America's SBDC", "type": "Professional association", "feed": "https://americassbdc.org/feed/", "column": "professional_bodies", "require": ["ai"] },
+    { "name": "National Small Business Association", "type": "Professional association", "feed": "https://www.nsba.biz/blog-feed.xml", "column": "professional_bodies", "require": ["ai"] },
+    { "name": "U.S. Census Bureau", "type": "Government agency", "feed": "https://www.census.gov/newsroom/press-releases.xml", "column": "research", "require": ["ai"] },
+    { "name": "Federal Reserve Bank of San Francisco", "type": "Research institution", "feed": "https://www.frbsf.org/feed/", "column": "research", "require": ["ai"] },
+    { "name": "Bureau of Labor Statistics", "type": "Government agency", "feed": "https://www.bls.gov/feed/bls_latest.rss", "column": "research", "require": ["ai"] },
+    { "name": "Inc.", "type": "News outlet", "feed": "https://www.inc.com/rss", "column": "news", "require": ["ai", "founders"] },
+    { "name": "Fortune", "type": "News outlet", "feed": "https://fortune.com/feed/fortune-feeds/?id=3230629", "column": "news", "require": ["ai", "founders"] },
+    { "name": "Entrepreneur", "type": "News outlet", "feed": "https://www.entrepreneur.com/latest.rss", "column": "news", "require": ["ai"], "linkSite": ["entrepreneur.com"] },
+    { "name": "Fast Company", "type": "News outlet", "feed": "https://www.fastcompany.com/latest/rss", "column": "news", "require": ["ai", "founders"] },
+    { "name": "Axios", "type": "News outlet", "feed": "https://api.axios.com/feed/", "column": "news", "require": ["ai", "founders"], "linkSite": ["axios.com"] },
+    { "name": "BBC News", "type": "News outlet", "feed": "https://feeds.bbci.co.uk/news/business/rss.xml", "column": "news", "require": ["ai", "founders"], "linkSite": ["bbc.com", "bbc.co.uk"] },
+    { "name": "The New York Times Small Business", "type": "News outlet", "feed": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml", "column": "news", "require": ["ai"], "linkSite": ["nytimes.com"] },
+    { "name": "The New York Times Business", "type": "News outlet", "feed": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "column": "news", "require": ["ai", "founders"], "linkSite": ["nytimes.com"] },
+    { "name": "The Wall Street Journal", "type": "News outlet", "feed": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness", "column": "news", "require": ["ai", "founders"], "linkSite": ["wsj.com"] },
+    { "name": "Bloomberg", "type": "News outlet", "feed": "https://feeds.bloomberg.com/business/news.rss", "column": "news", "require": ["ai", "founders"], "linkSite": ["bloomberg.com"] },
+    { "name": "Forbes Entrepreneurs", "type": "News outlet", "feed": "https://www.forbes.com/entrepreneurs/feed/", "column": "news", "require": ["ai"], "linkSite": ["forbes.com"] },
+    { "name": "Business Insider", "type": "News outlet", "feed": "https://www.businessinsider.com/rss", "column": "news", "require": ["ai", "founders"], "linkSite": ["businessinsider.com"] },
+    { "name": "Business News Daily", "type": "News outlet", "feed": "https://www.businessnewsdaily.com/feed.xml", "column": "news", "require": ["ai"], "linkSite": ["businessnewsdaily.com"] },
+    { "name": "TIME Business", "type": "News outlet", "feed": "https://time.com/section/business/feed/", "column": "news", "require": ["ai", "founders"], "linkSite": ["time.com"] },
+    { "name": "Los Angeles Times Business", "type": "News outlet", "feed": "https://www.latimes.com/business/rss2.0.xml", "column": "news", "require": ["ai", "founders"], "linkSite": ["latimes.com"] },
+    { "name": "USA Today Money", "type": "News outlet", "feed": "https://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories", "column": "news", "require": ["ai", "founders"], "linkSite": ["usatoday.com"] },
+    { "name": "Fox Business", "type": "News outlet", "feed": "https://moxie.foxbusiness.com/google-publisher/latest.xml", "column": "news", "require": ["ai", "founders"], "linkSite": ["foxbusiness.com"] },
+    { "name": "MarketWatch", "type": "News outlet", "feed": "https://feeds.marketwatch.com/marketwatch/topstories/", "column": "news", "require": ["ai", "founders"], "linkSite": ["marketwatch.com"] },
+    { "name": "Yahoo Finance", "type": "News outlet", "feed": "https://finance.yahoo.com/news/rssindex", "column": "news", "require": ["ai", "founders"], "linkSite": ["yahoo.com"] }
   ]
 }
