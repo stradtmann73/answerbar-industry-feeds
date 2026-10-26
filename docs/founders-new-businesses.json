@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-26T18:40:44.575Z",
+  "updated_at": "2026-10-26T22:38:13.742Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "Anthropic's S-1 makes clear it's on the hook for billions in compute. Its customers can walk at any time",
+          "summary": "As the AI startup prepares to go public, its massive multi-billion-dollar cloud commitments threaten to put huge pressure on its margins if customer demand slows down.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/10/26/anthropics-s-1-makes-clear-its-on-the-hook-for-billions-in-compute-its-customers-can-walk-at-any-time-2/",
+          "published_at": "2026-10-26T20:30:59.000Z"
+        },
+        {
+          "headline": "Anthropic's IPO Gives 7 Co-Founders 50.1 Percent of Voting Power. 1 Is Left Out",
+          "summary": "The AI giant is expected to make a historic market debut. A founder-focused plan looks to keep seven key figures in control.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/victoria-salves/anthropic-ipo-gives-7-co-founders-50-percent-voting-power-1-is-left-out/91425368",
+          "published_at": "2026-10-26T19:42:26.000Z"
+        },
+        {
           "headline": "Don't Deploy an AI Agent in Your Business Until You Answer These Questions",
           "summary": "A hiring mindset forces businesses to define the role, set boundaries and measure results before deploying an AI agent.",
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/business-news/tech/dont-deploy-an-ai-agent-in-your-business-until-you-answer-these-questions",
           "published_at": "2026-10-26T17:30:00.000Z"
-        },
-        {
-          "headline": "Big Tech is trying to make AI morally good by turning to religion. Experts weigh in",
-          "summary": "As tech companies race to build the most powerful artificial intelligence , some are also asking how to teach a chatbot right from wrong . Their answer? Religion.",
-          "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91629787/big-tech-trying-make-ai-morally-good-turning-religion-experts-weigh-in",
-          "published_at": "2026-10-26T16:30:00.000Z"
-        },
-        {
-          "headline": "Before You Hire Another Employee, Answer These 4 Questions (You May Not Need the Role After All)",
-          "summary": "When a business runs out of capacity, the response is often to hire another person. AI, automation and specialist talent mean entrepreneurs now have a more important question to ask first.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/before-you-hire-another-employee-answer-these-4-questions-you-may-not-need-the-role-after-all",
-          "published_at": "2026-10-26T16:00:00.000Z"
         }
       ]
     }
@@ -105,12 +105,12 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
