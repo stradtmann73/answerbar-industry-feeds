@@ -1,0 +1,56 @@
+{
+  "industry": "founders-new-businesses",
+  "title": "Founders and new businesses",
+  "updated_at": "2026-10-26T17:35:33.688Z",
+  "columns": [
+    {
+      "key": "professional_bodies",
+      "label": "Professional bodies",
+      "items": []
+    },
+    {
+      "key": "research",
+      "label": "Research",
+      "items": []
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "items": [
+        {
+          "headline": "Superintelligence Is a Myth, Here's What Actually Changes Everything",
+          "summary": "Superintelligence is a marketing myth. The real AI revolution is the rise of super assistants that handle your bureaucracy, automate daily friction, and change everyday life.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/dave-sokolin/superintelligence-is-a-myth-heres-what-actually-changes-everything/91424778",
+          "published_at": "2026-10-26T16:42:45.000Z"
+        },
+        {
+          "headline": "Why \"Chaos Posting\" Is Your Brand's Best Defense Against AI Slop",
+          "summary": "AI has made it easier than ever for brands to create more content. But when everyone can produce polished posts at scale, personality might be the thing that actually stands out.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/kamya-marwah/why-chaos-posting-is-your-brands-best-defense-against-ai-slop/91425085",
+          "published_at": "2026-10-26T16:00:00.000Z"
+        },
+        {
+          "headline": "Anthropic Filed to Go Public With Key Numbers Missing. 1 Could Reach $100 Billion",
+          "summary": "The AI giant is aiming to go public soon in what could be the biggest IPO ever.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/brian-contreras/anthropic-claude-ai-initial-public-offering-ipo-s-1-100-billion/91425354",
+          "published_at": "2026-10-26T15:55:55.000Z"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source": "Inc.",
+      "ok": true,
+      "kept": 6
+    },
+    {
+      "source": "Fortune",
+      "ok": true,
+      "kept": 0
+    }
+  ]
+}
