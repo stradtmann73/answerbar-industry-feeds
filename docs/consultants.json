@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-23T19:06:22.954Z",
+  "updated_at": "2026-10-26T12:56:34.353Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -41,6 +41,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Is HR Tech Undermining Your Strategy?",
+          "summary": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching the employee life cycle and capturing workforce data.",
+          "source_name": "MIT Sloan Management Review",
+          "source_url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
+          "published_at": "2026-10-26T11:00:29.000Z"
+        },
+        {
           "headline": "The Indian workers filming their work to train AI",
           "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
           "source_name": "BBC News",
@@ -53,13 +60,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
           "published_at": "2026-10-22T14:39:29.000Z"
-        },
-        {
-          "headline": "AI adoption by industry shows what other sectors can learn",
-          "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley.",
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-          "published_at": "2026-10-20T12:00:00.000Z"
         }
       ]
     }
@@ -73,7 +73,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "EMCC Global",
@@ -93,7 +93,7 @@
     {
       "source": "MIT Sloan Management Review",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Brookings",
@@ -113,7 +113,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "BBC News",
