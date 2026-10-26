@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}        # lets you run it by hand from the Actions tab
   push:                        # runs right away when the feed list or the script changes
     branches: [main]
-    paths: ["industries.json", "build.mjs", ".github/workflows/refresh.yml"]
+    paths: ["industries/**", "settings.json", "build.mjs", ".github/workflows/refresh.yml"]
 
 permissions:
   contents: write

@@ -1,0 +1,39 @@
+{
+  "key": "founders-new-businesses",
+  "title": "Founders and new businesses",
+  "columns": [
+    {
+      "key": "professional_bodies",
+      "label": "Professional bodies"
+    },
+    {
+      "key": "research",
+      "label": "Research"
+    },
+    {
+      "key": "news",
+      "label": "News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Inc.",
+      "type": "News outlet",
+      "feed": "https://www.inc.com/rss",
+      "column": "news",
+      "require": [
+        "ai"
+      ]
+    },
+    {
+      "name": "Fortune",
+      "type": "News outlet",
+      "feed": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+      "column": "news",
+      "require": [
+        "ai",
+        "founders"
+      ]
+    }
+  ]
+}

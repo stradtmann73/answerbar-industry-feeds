@@ -1,0 +1,6 @@
+{
+  "maxItemsPerColumn": 3,
+  "keepDays": 180,
+  "freshDays": 30,
+  "minSectionItems": 4
+}

@@ -12,11 +12,11 @@ The consultants page block already points at that address. If you create the rep
 
 ## Setup
 
-Nothing to configure. The job runs every 6 hours, and also right away whenever `industries.json` or `build.mjs` changes. The page reads the file straight from this repo, so GitHub Pages is not needed. To run it by hand: **Actions tab > Refresh industry feeds > Run workflow.**
+Nothing to configure. The job runs every 6 hours, and also right away whenever a file in `industries/`, `settings.json` or `build.mjs` changes. The page reads the file straight from this repo, so GitHub Pages is not needed. To run it by hand: **Actions tab > Refresh industry feeds > Run workflow.**
 
 ## How it decides what to show
 
-- **Sources** are listed in `industries.json`. Only credible organizations: professional associations, research nonprofits, university publishers and news outlets. No companies writing about their own products.
+- **Sources** are listed in each industry's own file in `industries/`. Only credible organizations: professional associations, research nonprofits, university publishers and news outlets. No companies writing about their own products.
   - Professional bodies: Institute of Management Consultants USA, EMCC Global, Chartered Management Institute
   - Research: Pew Research Center, Brookings, The Conversation
   - News: MIT Sloan Management Review, MIT Technology Review, NPR Business, NPR Technology, The Guardian, BBC News
@@ -37,7 +37,9 @@ Nothing to configure. The job runs every 6 hours, and also right away whenever `
 
 ## Adding the next industry page
 
-Add another entry to `industries` in `industries.json` with its own key, columns and sources. The job publishes `docs/<key>.json` for it.
+Add one new file to `industries/`, named `<key>.json`, with its own key, title, columns and sources. Copy an existing file to start. The job publishes `docs/<key>.json` for it. Each industry is its own file, so a mistake in one is reported by name and skipped without touching the others. Shared numbers (items per column, days kept) live in `settings.json`.
+
+In each source, `require` lists filter words. The build knows `ai`, `work` and `founders` (founders, startups, entrepreneurs, small business, solopreneurs, side hustles, self-employed, freelancers, new business, business owners). A word the build doesn't know is reported as an error for that industry only. Adding a new word means adding it to `TERMS` in `build.mjs`.
 
 ## Running it by hand
 

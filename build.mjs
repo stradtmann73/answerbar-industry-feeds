@@ -1,12 +1,12 @@
 // Answer Bar industry feeds.
-// Reads industries.json, pulls each source's RSS or Atom feed, keeps items about AI and work,
+// Reads settings.json and every file in industries/ (one file per industry), pulls each source's RSS or Atom feed, keeps items about AI and work,
 // merges them with what was published last time, and writes docs/<industry>.json for the
 // industry pages on answerbar.io to read. Runs on a schedule in GitHub Actions.
 //
 // Usage: node build.mjs
 // Test:  FIXTURE_DIR=./fixtures node build.mjs   (reads <fixture>/<slug>.xml instead of the web)
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 
@@ -19,6 +19,7 @@ const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 // Whole-word matching, so "ai" does not match "said" or "maintain".
 const TERMS = {
   ai: /\b(ai|a\.i\.|artificial intelligence|generative|genai|gen ai|chatgpt|llms?|large language models?|machine learning|chatbots?|copilot|automation)\b/i,
+  founders: /\b(founders?|start-?ups?|entrepreneurs?|entrepreneurial|entrepreneurship|solopreneurs?|small business\w*|side hustles?|self-employed|freelanc\w*|new business\w*|business owners?)\b/i,
   work: /\b(workers?|workforce|workplace|jobs|job (loss|losses|market|growth|cuts|seekers?|security)|employ\w*|careers?|consult\w*|coach\w*|advis\w*|freelanc\w*|self-employed|small business\w*|professional services|labou?r market)\b/i
 };
 
@@ -210,9 +211,26 @@ async function buildIndustry(industry, settings) {
   return { industry: industry.key, changed, report, counts: columns.map((c) => `${c.label}: ${c.items.length}`) };
 }
 
-const config = JSON.parse(await readFile(path.join(ROOT, "industries.json"), "utf8"));
+const settings = JSON.parse(await readFile(path.join(ROOT, "settings.json"), "utf8"));
+const IND_DIR = path.join(ROOT, "industries");
+const files = (await readdir(IND_DIR)).filter((f) => f.endsWith(".json")).sort();
 await mkdir(OUT_DIR, { recursive: true });
-for (const industry of config.industries) {
-  const result = await buildIndustry(industry, config);
-  console.log(JSON.stringify(result, null, 2));
+// One file per industry. A problem in one file is reported by name and skipped,
+// so it cannot stop or change any other industry.
+let failed = 0;
+for (const f of files) {
+  try {
+    const industry = JSON.parse(await readFile(path.join(IND_DIR, f), "utf8"));
+    if (f !== `${industry.key}.json`) throw new Error(`file name must match key "${industry.key}"`);
+    for (const s of industry.sources) {
+      for (const t of s.require) if (!TERMS[t]) throw new Error(`unknown require word "${t}" in ${s.name}`);
+    }
+    const result = await buildIndustry(industry, settings);
+    console.log(JSON.stringify(result, null, 2));
+  } catch (e) {
+    failed++;
+    console.error(`::warning::FAILED ${f}: ${e.message}`);
+  }
 }
+// A failed industry shows as a warning on the run. It does not stop the others from publishing.
+if (failed) console.error(`${failed} industry file(s) failed. See warnings above.`);

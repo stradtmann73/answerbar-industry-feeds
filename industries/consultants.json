@@ -1,0 +1,141 @@
+{
+  "key": "consultants",
+  "title": "Independent consultants and coaches",
+  "columns": [
+    {
+      "key": "professional_bodies",
+      "label": "Professional bodies"
+    },
+    {
+      "key": "research",
+      "label": "Research"
+    },
+    {
+      "key": "news",
+      "label": "News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Chartered Management Institute",
+      "type": "Professional body",
+      "feed": "https://www.managers.org.uk/feed/",
+      "column": "professional_bodies",
+      "require": [
+        "ai"
+      ]
+    },
+    {
+      "name": "Institute of Management Consultants USA",
+      "type": "Professional association",
+      "feed": "https://www.imcusa.org/feed/",
+      "column": "professional_bodies",
+      "require": [
+        "ai"
+      ]
+    },
+    {
+      "name": "EMCC Global",
+      "type": "Professional association",
+      "feed": "https://www.emccglobal.org/feed/",
+      "column": "professional_bodies",
+      "require": [
+        "ai"
+      ]
+    },
+    {
+      "name": "Pew Research Center",
+      "type": "Research nonprofit",
+      "feed": "https://www.pewresearch.org/feed/",
+      "column": "research",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "NPR",
+      "type": "News outlet",
+      "feed": "https://feeds.npr.org/1006/rss.xml",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "MIT Sloan Management Review",
+      "type": "University publisher",
+      "feed": "https://sloanreview.mit.edu/feed/",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "Brookings",
+      "type": "Research nonprofit",
+      "feed": "https://www.brookings.edu/topic/artificial-intelligence/feed/",
+      "column": "research",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "The Conversation",
+      "type": "Academic news outlet",
+      "feed": "https://theconversation.com/us/topics/artificial-intelligence-ai-90/articles.atom",
+      "column": "research",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "MIT Technology Review",
+      "type": "University publisher",
+      "feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "The Guardian",
+      "type": "News outlet",
+      "feed": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ]
+    },
+    {
+      "name": "BBC News",
+      "type": "News outlet",
+      "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ],
+      "linkSite": [
+        "bbc.com",
+        "bbc.co.uk"
+      ]
+    },
+    {
+      "name": "NPR Technology",
+      "type": "News outlet",
+      "feed": "https://feeds.npr.org/1019/rss.xml",
+      "column": "news",
+      "require": [
+        "ai",
+        "work"
+      ]
+    }
+  ]
+}
