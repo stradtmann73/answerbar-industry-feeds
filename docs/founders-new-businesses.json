@@ -1,12 +1,27 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-26T17:35:33.688Z",
+  "updated_at": "2026-10-26T18:40:44.575Z",
   "columns": [
     {
       "key": "professional_bodies",
       "label": "Professional bodies",
-      "items": []
+      "items": [
+        {
+          "headline": "Small Businesses Share Benefits of AI on Capitol Hill",
+          "summary": "Members of the U.S. Chamber's Small Business Council brought concerns from Main Streets across the country to Washington during their recent fall meeting.",
+          "source_name": "U.S. Chamber of Commerce",
+          "source_url": "https://www.uschamber.com/small-business/small-businesses-share-benefits-of-ai-on-capitol-hill",
+          "published_at": "2026-10-14T15:52:00.000Z"
+        },
+        {
+          "headline": "The Chamber's Free Enterprise Opportunity Tour Rolls into Detroit with Groundbreaking New Data on How AI is Creating Small Business Jobs",
+          "summary": "New U.S. Chamber research shows that AI is helping small businesses grow and compete.",
+          "source_name": "U.S. Chamber of Commerce",
+          "source_url": "https://www.uschamber.com/economy/the-chambers-free-enterprise-opportunity-tour-rolls-into-detroit-with-groundbreaking-new-data-on-how-ai-is-creating-small-business-jobs",
+          "published_at": "2026-10-02T16:40:00.000Z"
+        }
+      ]
     },
     {
       "key": "research",
@@ -18,39 +33,169 @@
       "label": "News",
       "items": [
         {
-          "headline": "Superintelligence Is a Myth, Here's What Actually Changes Everything",
-          "summary": "Superintelligence is a marketing myth. The real AI revolution is the rise of super assistants that handle your bureaucracy, automate daily friction, and change everyday life.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/dave-sokolin/superintelligence-is-a-myth-heres-what-actually-changes-everything/91424778",
-          "published_at": "2026-10-26T16:42:45.000Z"
+          "headline": "Don't Deploy an AI Agent in Your Business Until You Answer These Questions",
+          "summary": "A hiring mindset forces businesses to define the role, set boundaries and measure results before deploying an AI agent.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/tech/dont-deploy-an-ai-agent-in-your-business-until-you-answer-these-questions",
+          "published_at": "2026-10-26T17:30:00.000Z"
         },
         {
-          "headline": "Why \"Chaos Posting\" Is Your Brand's Best Defense Against AI Slop",
-          "summary": "AI has made it easier than ever for brands to create more content. But when everyone can produce polished posts at scale, personality might be the thing that actually stands out.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/kamya-marwah/why-chaos-posting-is-your-brands-best-defense-against-ai-slop/91425085",
+          "headline": "Big Tech is trying to make AI morally good by turning to religion. Experts weigh in",
+          "summary": "As tech companies race to build the most powerful artificial intelligence , some are also asking how to teach a chatbot right from wrong . Their answer? Religion.",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91629787/big-tech-trying-make-ai-morally-good-turning-religion-experts-weigh-in",
+          "published_at": "2026-10-26T16:30:00.000Z"
+        },
+        {
+          "headline": "Before You Hire Another Employee, Answer These 4 Questions (You May Not Need the Role After All)",
+          "summary": "When a business runs out of capacity, the response is often to hire another person. AI, automation and specialist talent mean entrepreneurs now have a more important question to ask first.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/before-you-hire-another-employee-answer-these-4-questions-you-may-not-need-the-role-after-all",
           "published_at": "2026-10-26T16:00:00.000Z"
-        },
-        {
-          "headline": "Anthropic Filed to Go Public With Key Numbers Missing. 1 Could Reach $100 Billion",
-          "summary": "The AI giant is aiming to go public soon in what could be the biggest IPO ever.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/brian-contreras/anthropic-claude-ai-initial-public-offering-ipo-s-1-100-billion/91425354",
-          "published_at": "2026-10-26T15:55:55.000Z"
         }
       ]
     }
   ],
   "sources": [
     {
+      "source": "U.S. Chamber of Commerce",
+      "ok": true,
+      "kept": 3
+    },
+    {
+      "source": "SBA Office of Advocacy",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Small Business Majority",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "source": "Small Business and Entrepreneurship Council",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "America's SBDC",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "National Small Business Association",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "source": "U.S. Census Bureau",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Federal Reserve Bank of San Francisco",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Bureau of Labor Statistics",
+      "ok": true,
+      "kept": 0
+    },
+    {
       "source": "Inc.",
       "ok": true,
-      "kept": 6
+      "kept": 0
     },
     {
       "source": "Fortune",
       "ok": true,
       "kept": 0
+    },
+    {
+      "source": "Entrepreneur",
+      "ok": true,
+      "kept": 3
+    },
+    {
+      "source": "Fast Company",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "Axios",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "BBC News",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "The New York Times Small Business",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "The New York Times Business",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "The Wall Street Journal",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Bloomberg",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Forbes Entrepreneurs",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Business Insider",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Business News Daily",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "source": "TIME Business",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Los Angeles Times Business",
+      "ok": true,
+      "kept": 1
+    },
+    {
+      "source": "USA Today Money",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Fox Business",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "MarketWatch",
+      "ok": true,
+      "kept": 0
+    },
+    {
+      "source": "Yahoo Finance",
+      "ok": false,
+      "error": "HTTP 404"
     }
   ]
 }
