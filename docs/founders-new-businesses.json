@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-26T22:38:13.742Z",
+  "updated_at": "2026-10-27T05:00:01.978Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "This AI startup raised $300 million to build digital versions of consumers",
+          "summary": "Simile raised $300 million at a $2 billion valuation to build AI digital doubles that predict how shoppers might react to products and marketing.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/ai-startup-simile-digital-consumer-twin-2026-10",
+          "published_at": "2026-10-27T04:01:01.000Z"
+        },
+        {
           "headline": "Anthropic's S-1 makes clear it's on the hook for billions in compute. Its customers can walk at any time",
           "summary": "As the AI startup prepares to go public, its massive multi-billion-dollar cloud commitments threaten to put huge pressure on its margins if customer demand slows down.",
           "source_name": "Fortune",
@@ -40,18 +47,11 @@
           "published_at": "2026-10-26T20:30:59.000Z"
         },
         {
-          "headline": "Anthropic's IPO Gives 7 Co-Founders 50.1 Percent of Voting Power. 1 Is Left Out",
-          "summary": "The AI giant is expected to make a historic market debut. A founder-focused plan looks to keep seven key figures in control.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/victoria-salves/anthropic-ipo-gives-7-co-founders-50-percent-voting-power-1-is-left-out/91425368",
-          "published_at": "2026-10-26T19:42:26.000Z"
-        },
-        {
-          "headline": "Don't Deploy an AI Agent in Your Business Until You Answer These Questions",
-          "summary": "A hiring mindset forces businesses to define the role, set boundaries and measure results before deploying an AI agent.",
+          "headline": "Europe Keeps Exporting Its Best Tech Founders to the U.S., But Why?",
+          "summary": "Europe has more AI talent per capita than the US. It still can't keep its best founders from leaving, here's why.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/dont-deploy-an-ai-agent-in-your-business-until-you-answer-these-questions",
-          "published_at": "2026-10-26T17:30:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/europe-keeps-exporting-its-best-tech-founders-to-the-u-s-but-why",
+          "published_at": "2026-10-26T20:30:00.000Z"
         }
       ]
     }
@@ -89,8 +89,8 @@
     },
     {
       "source": "U.S. Census Bureau",
-      "ok": true,
-      "kept": 0
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "source": "Federal Reserve Bank of San Francisco",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
