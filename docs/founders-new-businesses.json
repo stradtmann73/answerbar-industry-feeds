@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-27T05:00:01.978Z",
+  "updated_at": "2026-10-27T12:07:16.294Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "This AI startup raised $300 million to build digital versions of consumers",
-          "summary": "Simile raised $300 million at a $2 billion valuation to build AI digital doubles that predict how shoppers might react to products and marketing.",
+          "headline": "Tech Disruptors: ServiceNow on Rules, Rails and AI Execution",
+          "summary": "\"I think one of the things that people have gotten wrong, especially Wall Street, is that they confused intelligence with execution,\" Bhavin Shah, senior vice president of the Employee Experience Group at ServiceNow and...",
+          "source_name": "Bloomberg",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-27/tech-disruptors-servicenow-on-rules-rails-and-ai-execution",
+          "published_at": "2026-10-27T12:00:00.000Z"
+        },
+        {
+          "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
+          "summary": "Machenta, founded by Imperial College London researchers, raised $40 million to build AI that teaches robots new tasks from one demonstration.",
           "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/ai-startup-simile-digital-consumer-twin-2026-10",
-          "published_at": "2026-10-27T04:01:01.000Z"
+          "source_url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10",
+          "published_at": "2026-10-27T10:00:01.000Z"
         },
         {
-          "headline": "Anthropic's S-1 makes clear it's on the hook for billions in compute. Its customers can walk at any time",
-          "summary": "As the AI startup prepares to go public, its massive multi-billion-dollar cloud commitments threaten to put huge pressure on its margins if customer demand slows down.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/10/26/anthropics-s-1-makes-clear-its-on-the-hook-for-billions-in-compute-its-customers-can-walk-at-any-time-2/",
-          "published_at": "2026-10-26T20:30:59.000Z"
-        },
-        {
-          "headline": "Europe Keeps Exporting Its Best Tech Founders to the U.S., But Why?",
-          "summary": "Europe has more AI talent per capita than the US. It still can't keep its best founders from leaving, here's why.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/europe-keeps-exporting-its-best-tech-founders-to-the-u-s-but-why",
-          "published_at": "2026-10-26T20:30:00.000Z"
+          "headline": "The Customers Most Founders Avoid May Be the Ones That Build the Strongest Companies",
+          "summary": "Here's what founders can learn from the startups building AI for nonprofits.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/hillary-remy/non-profit-customers-startup-founders-strong-companies/91425342",
+          "published_at": "2026-10-27T10:00:00.000Z"
         }
       ]
     }
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": true,
-      "kept": 0
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "National Small Business Association",
@@ -89,8 +89,8 @@
     },
     {
       "source": "U.S. Census Bureau",
-      "ok": false,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "Federal Reserve Bank of San Francisco",
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fortune",
@@ -120,7 +120,7 @@
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -150,7 +150,7 @@
     {
       "source": "Bloomberg",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Forbes Entrepreneurs",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Business News Daily",
