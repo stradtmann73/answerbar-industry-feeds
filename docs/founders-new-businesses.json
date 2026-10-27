@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-27T12:07:16.294Z",
+  "updated_at": "2026-10-27T17:58:17.100Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,11 +33,11 @@
       "label": "News",
       "items": [
         {
-          "headline": "Tech Disruptors: ServiceNow on Rules, Rails and AI Execution",
-          "summary": "\"I think one of the things that people have gotten wrong, especially Wall Street, is that they confused intelligence with execution,\" Bhavin Shah, senior vice president of the Employee Experience Group at ServiceNow and...",
-          "source_name": "Bloomberg",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-10-27/tech-disruptors-servicenow-on-rules-rails-and-ai-execution",
-          "published_at": "2026-10-27T12:00:00.000Z"
+          "headline": "AI Changed the Game of Selling, and Most Companies Missed the Memo",
+          "summary": "Here's how agile companies and startups can cash in on it.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/stephanie-davis/ai-selling-startup-founder-companies/91425365",
+          "published_at": "2026-10-27T16:22:23.000Z"
         },
         {
           "headline": "An 11-person startup raised $40 million to challenge robotics' data-hungry giants",
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": false,
-      "error": "fetch failed"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "National Small Business Association",
@@ -105,12 +105,12 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
@@ -150,7 +150,7 @@
     {
       "source": "Bloomberg",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Forbes Entrepreneurs",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 2
+      "kept": 0
     },
     {
       "source": "Business News Daily",
