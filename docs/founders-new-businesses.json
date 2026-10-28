@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-28T12:48:52.101Z",
+  "updated_at": "2026-10-28T22:32:33.460Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Meet the legal AI startup helping David take on Goliath",
-          "summary": "Eve co-founder Jay Madheswaran explains how his legal AI startup is leveling the playing field in legal battles between everyday people and deep-pocketed companies.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/10/28/legal-ai-startup-helping-david-take-on-goliath-eve/",
-          "published_at": "2026-10-28T12:06:01.000Z"
+          "headline": "Oracle Is Offering Small Businesses $12,000 a Year in Cloud Credits. Here's How to Apply",
+          "summary": "Oracle and OpenAI are teaming up with an AI bundle geared towards SMBs.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/aaron-mok/oracle-is-offering-small-businesses-12000-a-year-in-cloud-credits-heres-how-to-apply/91426723",
+          "published_at": "2026-10-28T21:06:18.000Z"
         },
         {
-          "headline": "Lightspeed is betting this startup can lure shoppers with a feed of AI images. Read the pitch deck it used to raise $7M.",
-          "summary": "Dalet Labs is launching a new app called Scene, where you can scroll through shoppable, AI-generated images.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
-          "published_at": "2026-10-28T12:00:01.000Z"
+          "headline": "Should Entrepreneurs Go to Business School? The Answer Isn't as Straightforward As You Think",
+          "summary": "Networks can be built from scratch, and AI can close the skills gaps a budding entrepreneur needs. But an MBA can still offer something else.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/should-entrepreneurs-go-to-business-school-the-answer-isnt-as-straightforward-as-you-think",
+          "published_at": "2026-10-28T19:30:00.000Z"
         },
         {
-          "headline": "Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud",
-          "summary": "A social media-driven epidemic of dishonesty means card companies are facing far more first party fraud.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/10/28/dd/",
-          "published_at": "2026-10-28T12:00:00.000Z"
+          "headline": "This company wants to use AI to reverse aging, here's how",
+          "summary": "What if AI could reset the clock on your body's aging? In this episode of Adventures in AI , Drew Taylor, founder of Acorn Biolabs, talks about how artificial intelligence is transforming regenerative medicine, from...",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91631586/this-company-wants-to-use-ai-to-reverse-aging-heres-how",
+          "published_at": "2026-10-28T18:00:00.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Fortune",
@@ -115,12 +115,12 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 3
+      "kept": 1
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 2
+      "kept": 0
     },
     {
       "source": "Business News Daily",
