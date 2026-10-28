@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-26T22:38:13.742Z",
+  "updated_at": "2026-10-28T05:37:55.331Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -41,6 +41,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+          "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+          "published_at": "2026-10-27T22:30:45.000Z"
+        },
+        {
           "headline": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
           "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports",
           "source_name": "The Guardian",
@@ -53,13 +60,6 @@
           "source_name": "MIT Sloan Management Review",
           "source_url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
           "published_at": "2026-10-26T11:00:29.000Z"
-        },
-        {
-          "headline": "The Indian workers filming their work to train AI",
-          "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-23T08:04:17.000Z"
         }
       ]
     }
@@ -73,7 +73,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "EMCC Global",
@@ -113,7 +113,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "BBC News",
