@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-27T22:11:03.528Z",
+  "updated_at": "2026-10-28T12:48:52.101Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "'Slop' Was the Word of the Year. Don't Let It Describe Your Brand.",
-          "summary": "AI made content nearly free and nearly worthless. The brands that win will be the ones that still have a story worth believing.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/slop-was-the-word-of-the-year-dont-let-it-describe-your-brand",
-          "published_at": "2026-10-27T17:00:00.000Z"
+          "headline": "Meet the legal AI startup helping David take on Goliath",
+          "summary": "Eve co-founder Jay Madheswaran explains how his legal AI startup is leveling the playing field in legal battles between everyday people and deep-pocketed companies.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/10/28/legal-ai-startup-helping-david-take-on-goliath-eve/",
+          "published_at": "2026-10-28T12:06:01.000Z"
         },
         {
-          "headline": "AI Changed the Game of Selling, and Most Companies Missed the Memo",
-          "summary": "Here's how agile companies and startups can cash in on it.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/stephanie-davis/ai-selling-startup-founder-companies/91425365",
-          "published_at": "2026-10-27T16:22:23.000Z"
+          "headline": "Lightspeed is betting this startup can lure shoppers with a feed of AI images. Read the pitch deck it used to raise $7M.",
+          "summary": "Dalet Labs is launching a new app called Scene, where you can scroll through shoppable, AI-generated images.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+          "published_at": "2026-10-28T12:00:01.000Z"
         },
         {
-          "headline": "The Top 10 Ways Small Businesses Are Using AI Right Now, According to Fiverr Data",
-          "summary": "Looking beyond the hype? Fiverr data offers a snapshot of how small businesses are really using AI technology.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/the-top-10-ways-small-businesses-are-using-ai-right-now-according-to-fiverr-data",
-          "published_at": "2026-10-27T16:16:06.000Z"
+          "headline": "Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud",
+          "summary": "A social media-driven epidemic of dishonesty means card companies are facing far more first party fraud.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/10/28/dd/",
+          "published_at": "2026-10-28T12:00:00.000Z"
         }
       ]
     }
@@ -105,12 +105,12 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Entrepreneur",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Business News Daily",
