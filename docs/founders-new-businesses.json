@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-29T05:44:25.408Z",
+  "updated_at": "2026-10-29T12:56:09.711Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "\"The attackers are winning\": Cyber 60 founders say AI is giving hackers the upper hand",
+          "summary": "This week marked the release of the Cyber 60, Fortune's annual list of cybersecurity's most innovative startups. And the message is clear: The stakes are high.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/",
+          "published_at": "2026-10-29T11:57:06.000Z"
+        },
+        {
           "headline": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
           "summary": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.",
           "source_name": "Fox Business",
@@ -45,13 +52,6 @@
           "source_name": "Inc.",
           "source_url": "https://www.inc.com/aaron-mok/oracle-is-offering-small-businesses-12000-a-year-in-cloud-credits-heres-how-to-apply/91426723",
           "published_at": "2026-10-28T21:06:18.000Z"
-        },
-        {
-          "headline": "Should Entrepreneurs Go to Business School? The Answer Isn't as Straightforward As You Think",
-          "summary": "Networks can be built from scratch, and AI can close the skills gaps a budding entrepreneur needs. But an MBA can still offer something else.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/should-entrepreneurs-go-to-business-school-the-answer-isnt-as-straightforward-as-you-think",
-          "published_at": "2026-10-28T19:30:00.000Z"
         }
       ]
     }
@@ -110,7 +110,7 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
@@ -120,7 +120,7 @@
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
