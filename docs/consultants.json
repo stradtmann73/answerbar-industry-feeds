@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-10-28T05:37:55.331Z",
+  "updated_at": "2026-10-29T22:43:21.226Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -41,6 +41,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "What is it like to work when your co-workers are AI agents?",
+          "summary": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+          "published_at": "2026-10-29T15:00:46.000Z"
+        },
+        {
           "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
           "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds",
           "source_name": "The Guardian",
@@ -48,18 +55,11 @@
           "published_at": "2026-10-27T22:30:45.000Z"
         },
         {
-          "headline": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
-          "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
-          "published_at": "2026-10-26T18:44:31.000Z"
-        },
-        {
-          "headline": "Is HR Tech Undermining Your Strategy?",
-          "summary": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching the employee life cycle and capturing workforce data.",
-          "source_name": "MIT Sloan Management Review",
-          "source_url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
-          "published_at": "2026-10-26T11:00:29.000Z"
+          "headline": "After a year of uncertainty, Job Corps is making a comeback",
+          "summary": "Last year, President Trump ordered more than 100 Job Corps training programs to close to save federal funds. A lawsuit stopped that, and now enrollment is up for \"AI-proof\" trade career training.",
+          "source_name": "NPR",
+          "source_url": "https://www.npr.org/2026/10/23/nx-s1-6000392/after-a-year-of-uncertainty-job-corps-is-making-a-comeback",
+          "published_at": "2026-10-27T20:19:39.000Z"
         }
       ]
     }
@@ -88,7 +88,7 @@
     {
       "source": "NPR",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MIT Sloan Management Review",
