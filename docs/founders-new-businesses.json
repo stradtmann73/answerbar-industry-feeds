@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-28T22:32:33.460Z",
+  "updated_at": "2026-10-29T05:44:25.408Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
+          "summary": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.",
+          "source_name": "Fox Business",
+          "source_url": "https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report",
+          "published_at": "2026-10-28T22:41:22.000Z"
+        },
+        {
           "headline": "Oracle Is Offering Small Businesses $12,000 a Year in Cloud Credits. Here's How to Apply",
           "summary": "Oracle and OpenAI are teaming up with an AI bundle geared towards SMBs.",
           "source_name": "Inc.",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/should-entrepreneurs-go-to-business-school-the-answer-isnt-as-straightforward-as-you-think",
           "published_at": "2026-10-28T19:30:00.000Z"
-        },
-        {
-          "headline": "This company wants to use AI to reverse aging, here's how",
-          "summary": "What if AI could reset the clock on your body's aging? In this episode of Adventures in AI , Drew Taylor, founder of Acorn Biolabs, talks about how artificial intelligence is transforming regenerative medicine, from...",
-          "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91631586/this-company-wants-to-use-ai-to-reverse-aging-heres-how",
-          "published_at": "2026-10-28T18:00:00.000Z"
         }
       ]
     }
@@ -185,7 +185,7 @@
     {
       "source": "Fox Business",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MarketWatch",
