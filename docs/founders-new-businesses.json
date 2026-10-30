@@ -1,25 +1,25 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-30T05:43:20.420Z",
+  "updated_at": "2026-10-30T22:16:17.399Z",
   "columns": [
     {
       "key": "professional_bodies",
       "label": "Professional bodies",
       "items": [
         {
+          "headline": "U.S. Chamber Hosted Small Business AI Forum During National Free Enterprise Express Opportunity Tour",
+          "summary": "The forum highlighted findings from new U.S. Chamber research on how AI is driving growth and job creation among small businesses",
+          "source_name": "U.S. Chamber of Commerce",
+          "source_url": "https://www.uschamber.com/economy/u-s-chamber-hosted-small-business-ai-forum-during-national-free-enterprise-express-opportunity-tour",
+          "published_at": "2026-10-30T20:50:00.000Z"
+        },
+        {
           "headline": "Small Businesses Share Benefits of AI on Capitol Hill",
           "summary": "Members of the U.S. Chamber's Small Business Council brought concerns from Main Streets across the country to Washington during their recent fall meeting.",
           "source_name": "U.S. Chamber of Commerce",
           "source_url": "https://www.uschamber.com/small-business/small-businesses-share-benefits-of-ai-on-capitol-hill",
           "published_at": "2026-10-14T15:52:00.000Z"
-        },
-        {
-          "headline": "The Chamber's Free Enterprise Opportunity Tour Rolls into Detroit with Groundbreaking New Data on How AI is Creating Small Business Jobs",
-          "summary": "New U.S. Chamber research shows that AI is helping small businesses grow and compete.",
-          "source_name": "U.S. Chamber of Commerce",
-          "source_url": "https://www.uschamber.com/economy/the-chambers-free-enterprise-opportunity-tour-rolls-into-detroit-with-groundbreaking-new-data-on-how-ai-is-creating-small-business-jobs",
-          "published_at": "2026-10-02T16:40:00.000Z"
         }
       ]
     },
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Alphabet Just Lost $500 Billion in One Day, Here's Why Wall Street Is Spooked",
-          "summary": "Slowing search growth and soaring AI costs have investors asking whether the payoff is coming fast enough.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/alphabet-just-lost-500-billion-in-one-day-heres-why-wall-street-is-spooked",
-          "published_at": "2026-10-29T20:33:00.000Z"
+          "headline": "The Lesson Behind Bryan Johnson's Viral Post About Getting Revenge",
+          "summary": "When Bryan Johnson joked about using AI agents to track his haters, it went viral. But for founders, the real lesson is how to bulletproof your reputation before a crisis hits.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/sneha-saigal/the-lesson-behind-bryan-johnsons-viral-post-about-getting-revenge/91427738",
+          "published_at": "2026-10-30T18:51:04.000Z"
         },
         {
-          "headline": "Mark Cuban Says AI Will Mint the Next 'Trillionaire in the Basement'",
-          "summary": "Slow-moving companies are handing AI-savvy founders a huge opening, according to the billionaire investor.",
+          "headline": "AI Agents Will Change Marketing Teams in 2027. Here's How Leaders Can Prepare.",
+          "summary": "As AI agents take on more marketing work, businesses will need to rethink how teams are structured, how employees are evaluated and where human judgment is most valuable.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/mark-cuban-says-ai-will-mint-the-next-trillionaire-in-the-basement",
-          "published_at": "2026-10-29T13:11:00.000Z"
+          "source_url": "https://www.entrepreneur.com/building-a-business/marketing/ai-agents-will-change-marketing-teams-in-2027-how-leaders-can-prepare",
+          "published_at": "2026-10-30T17:00:00.000Z"
         },
         {
-          "headline": "\"The attackers are winning\": Cyber 60 founders say AI is giving hackers the upper hand",
-          "summary": "This week marked the release of the Cyber 60, Fortune's annual list of cybersecurity's most innovative startups. And the message is clear: The stakes are high.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/",
-          "published_at": "2026-10-29T11:57:06.000Z"
+          "headline": "He Left Goldman Sachs to Teach AI on YouTube. 1 Million Subscribers Later, He Says These Are the Essential AI Skills to Stay Ahead at Work",
+          "summary": "Nate Herk's AI Automation Society has become one of the biggest communities for people teaching themselves AI.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/tobi-opeyemi-amure/goldman-sachs-youtube-ai-skills-get-ahead-work/91428479",
+          "published_at": "2026-10-30T16:40:38.000Z"
         }
       ]
     }
@@ -60,7 +60,7 @@
     {
       "source": "U.S. Chamber of Commerce",
       "ok": true,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "SBA Office of Advocacy",
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Fortune",
@@ -115,12 +115,12 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 1
+      "kept": 3
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
