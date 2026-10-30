@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-29T22:43:21.226Z",
+  "updated_at": "2026-10-30T05:43:20.420Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Alphabet Just Lost $500 Billion in One Day, Here's Why Wall Street Is Spooked",
+          "summary": "Slowing search growth and soaring AI costs have investors asking whether the payoff is coming fast enough.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/alphabet-just-lost-500-billion-in-one-day-heres-why-wall-street-is-spooked",
+          "published_at": "2026-10-29T20:33:00.000Z"
+        },
+        {
           "headline": "Mark Cuban Says AI Will Mint the Next 'Trillionaire in the Basement'",
           "summary": "Slow-moving companies are handing AI-savvy founders a huge opening, according to the billionaire investor.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Fortune",
           "source_url": "https://fortune.com/2026/10/29/attackers-winning-cyber-60-founders-ai-giving-hackers-upper-hand/",
           "published_at": "2026-10-29T11:57:06.000Z"
-        },
-        {
-          "headline": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
-          "summary": "The $20-an-hour job posting sought workers to operate four-legged robots on outdoor testing routes through San Francisco with no robotics experience required.",
-          "source_name": "Fox Business",
-          "source_url": "https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report",
-          "published_at": "2026-10-28T22:41:22.000Z"
         }
       ]
     }
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": false,
-      "error": "fetch failed"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "National Small Business Association",
@@ -110,7 +110,7 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
