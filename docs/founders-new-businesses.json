@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-31T05:36:42.081Z",
+  "updated_at": "2026-10-31T12:22:21.498Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Otter.ai is moving beyond transcription, and deeper into your workday",
+          "summary": "Eight years ago, Otter.ai's pitch for its transcription app was pretty straightforward: The Mountain View, California-based startup would turn audio into readable text in real time. And it would do it for free.",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91633159/otter-ai-is-moving-beyond-transcription-and-deeper-into-your-workday",
+          "published_at": "2026-10-31T11:00:00.000Z"
+        },
+        {
           "headline": "AI and Emerging Tech Are Changing How People Travel. Here's How Travel Businesses Can Stay Visible and Valuable",
           "summary": "See how AI, virtual reality and predictive analytics are changing travel planning, search and advisor value.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/starting-an-ai-side-hustle-is-easy-steal-this-system-2",
           "published_at": "2026-10-31T00:00:00.000Z"
-        },
-        {
-          "headline": "More Isn't Always Better, How the Constant Push For More Content Makes Everyone's Branding Identical",
-          "summary": "As technology and AI make professional content easier to produce, the real competitive advantage is shifting from production quality to having something genuinely worth saying.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/real-estate/more-isnt-always-better-how-the-constant-push-for-more-content-makes-everyones-branding-identical",
-          "published_at": "2026-10-30T23:00:00.000Z"
         }
       ]
     }
@@ -110,7 +110,7 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
