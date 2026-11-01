@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-10-31T12:22:21.498Z",
+  "updated_at": "2026-11-01T13:16:47.202Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "I run an 8-person startup that uses AI agents. We don't let our agents run on vibes, here's the playbook system we created",
+          "summary": "Founder Rachel Woods explains how her 8-person company uses AI agents to automate work and avoid 4 new hires. Here's her playbook.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/8-person-company-uses-ai-agents-to-avoid-doubling-team-2026-11",
+          "published_at": "2026-11-01T11:00:02.000Z"
+        },
+        {
+          "headline": "This new indie film about an AI startup founder and his family feels less like sci-fi by the day",
+          "summary": "\"Anna by the Window\" is a glimpse inside the world of Ryan, a teen boy who travels to New York City to reconnect with his AI startup founder brother.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/anna-by-the-window-film-ai-human-connection-luddite-movement-2026-10",
+          "published_at": "2026-11-01T10:14:02.000Z"
+        },
+        {
           "headline": "Otter.ai is moving beyond transcription, and deeper into your workday",
           "summary": "Eight years ago, Otter.ai's pitch for its transcription app was pretty straightforward: The Mountain View, California-based startup would turn audio into readable text in real time. And it would do it for free.",
           "source_name": "Fast Company",
           "source_url": "https://www.fastcompany.com/91633159/otter-ai-is-moving-beyond-transcription-and-deeper-into-your-workday",
           "published_at": "2026-10-31T11:00:00.000Z"
-        },
-        {
-          "headline": "AI and Emerging Tech Are Changing How People Travel. Here's How Travel Businesses Can Stay Visible and Valuable",
-          "summary": "See how AI, virtual reality and predictive analytics are changing travel planning, search and advisor value.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/ai-and-emerging-tech-are-changing-how-people-travel-heres-how-travel-businesses-can-stay-visible-and-valuable",
-          "published_at": "2026-10-31T01:00:00.000Z"
-        },
-        {
-          "headline": "Starting an AI Side Hustle is Easy (Steal This System)",
-          "summary": "See how AI agents can help solo entrepreneurs delegate work, build tools and operate with the capabilities of a much larger team.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/starting-an-ai-side-hustle-is-easy-steal-this-system-2",
-          "published_at": "2026-10-31T00:00:00.000Z"
         }
       ]
     }
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": true,
-      "kept": 0
+      "ok": false,
+      "error": "fetch failed"
     },
     {
       "source": "National Small Business Association",
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Business News Daily",
