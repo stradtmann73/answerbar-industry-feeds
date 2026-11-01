@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-01T13:16:47.202Z",
+  "updated_at": "2026-11-01T21:59:16.649Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "Cheap AI Output Can Still Be Expensive Work. Here's How to Tell.",
+          "summary": "Most owners buy AI for speed and discover the checking cost later. A competent person can verify the output cheaply and still say no.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/cheap-ai-output-can-still-be-expensive-work-heres-how-to-tell",
+          "published_at": "2026-11-01T19:00:00.000Z"
+        },
+        {
+          "headline": "'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+          "summary": "'SNL' fired shots at AI startup culture in its latest episode.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "published_at": "2026-11-01T17:13:48.000Z"
+        },
+        {
           "headline": "I run an 8-person startup that uses AI agents. We don't let our agents run on vibes, here's the playbook system we created",
           "summary": "Founder Rachel Woods explains how her 8-person company uses AI agents to automate work and avoid 4 new hires. Here's her playbook.",
           "source_name": "Business Insider",
           "source_url": "https://www.businessinsider.com/8-person-company-uses-ai-agents-to-avoid-doubling-team-2026-11",
           "published_at": "2026-11-01T11:00:02.000Z"
-        },
-        {
-          "headline": "This new indie film about an AI startup founder and his family feels less like sci-fi by the day",
-          "summary": "\"Anna by the Window\" is a glimpse inside the world of Ryan, a teen boy who travels to New York City to reconnect with his AI startup founder brother.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/anna-by-the-window-film-ai-human-connection-luddite-movement-2026-10",
-          "published_at": "2026-11-01T10:14:02.000Z"
-        },
-        {
-          "headline": "Otter.ai is moving beyond transcription, and deeper into your workday",
-          "summary": "Eight years ago, Otter.ai's pitch for its transcription app was pretty straightforward: The Mountain View, California-based startup would turn audio into readable text in real time. And it would do it for free.",
-          "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91633159/otter-ai-is-moving-beyond-transcription-and-deeper-into-your-workday",
-          "published_at": "2026-10-31T11:00:00.000Z"
         }
       ]
     }
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": false,
-      "error": "fetch failed"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "National Small Business Association",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Business News Daily",
