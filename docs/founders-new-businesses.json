@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-01T21:59:16.649Z",
+  "updated_at": "2026-11-02T15:44:28.029Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Corporate America's AI bill is ballooning. This startup raised $30 million to make sense of where the money is going.",
+          "summary": "Larridin raised $30 million from Pelion Ventures, a16z, and others to help companies track their AI spending and measure returns.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+          "published_at": "2026-11-02T14:00:01.000Z"
+        },
+        {
           "headline": "Cheap AI Output Can Still Be Expensive Work. Here's How to Tell.",
           "summary": "Most owners buy AI for speed and discover the checking cost later. A competent person can verify the output cheaply and still say no.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Business Insider",
           "source_url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
           "published_at": "2026-11-01T17:13:48.000Z"
-        },
-        {
-          "headline": "I run an 8-person startup that uses AI agents. We don't let our agents run on vibes, here's the playbook system we created",
-          "summary": "Founder Rachel Woods explains how her 8-person company uses AI agents to automate work and avoid 4 new hires. Here's her playbook.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/8-person-company-uses-ai-agents-to-avoid-doubling-team-2026-11",
-          "published_at": "2026-11-01T11:00:02.000Z"
         }
       ]
     }
@@ -120,7 +120,7 @@
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
