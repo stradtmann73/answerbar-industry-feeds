@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-01T21:59:16.649Z",
+  "updated_at": "2026-11-03T00:55:54.589Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -41,6 +41,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+          "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+          "source_name": "NPR Technology",
+          "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+          "published_at": "2026-11-02T20:02:41.000Z"
+        },
+        {
           "headline": "AI is stealing Indigenous Australian art and churning out 'Temu slop', artist says",
           "summary": "Chair of National Gallery's First Nations advisory group says the technology is undermining artists' agency and the authenticity of their work",
           "source_name": "The Guardian",
@@ -53,13 +60,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
           "published_at": "2026-10-29T15:00:46.000Z"
-        },
-        {
-          "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-          "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-          "published_at": "2026-10-27T22:30:45.000Z"
         }
       ]
     }
@@ -123,7 +123,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 0
+      "kept": 1
     }
   ]
 }
