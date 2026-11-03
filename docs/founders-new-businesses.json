@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-03T14:08:14.872Z",
+  "updated_at": "2026-11-03T23:19:20.155Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
+          "summary": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from 'Hercules.'",
+          "source_name": "Los Angeles Times Business",
+          "source_url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
+          "published_at": "2026-11-03T22:32:04.000Z"
+        },
+        {
           "headline": "Taiwan's AI stock boom is making early-stage startups a harder sell",
           "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
           "source_name": "Business Insider",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/business-news/google-slides-and-powerpoint-are-dead-did-ai-really-kill-the-corporate-deck",
           "published_at": "2026-11-03T04:00:00.000Z"
-        },
-        {
-          "headline": "Founders Now Have a New Way to Make Videos in ChatGPT. It's Not Sora",
-          "summary": "This ChatGPT plug-in from Synthesia can turn your documents into marketing videos. Here's how to set it up.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/aaron-mok/founders-now-have-a-new-way-to-make-videos-in-chatgpt-its-not-sora/91429491",
-          "published_at": "2026-11-02T18:41:50.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 0
     },
     {
       "source": "Fortune",
@@ -115,12 +115,12 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 2
+      "kept": 0
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",
@@ -175,7 +175,7 @@
     {
       "source": "Los Angeles Times Business",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "USA Today Money",
