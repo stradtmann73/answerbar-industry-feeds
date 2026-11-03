@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-03T00:55:54.589Z",
+  "updated_at": "2026-11-03T14:08:14.872Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "Taiwan's AI stock boom is making early-stage startups a harder sell",
+          "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11",
+          "published_at": "2026-11-03T05:01:01.000Z"
+        },
+        {
+          "headline": "'Google Slides and PowerPoint Are Dead.' Did AI Really Kill the Corporate Deck?",
+          "summary": "Another casualty of AI might be the PowerPoint and Google Slide presentation. Many are now using coding to create decks.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/google-slides-and-powerpoint-are-dead-did-ai-really-kill-the-corporate-deck",
+          "published_at": "2026-11-03T04:00:00.000Z"
+        },
+        {
           "headline": "Founders Now Have a New Way to Make Videos in ChatGPT. It's Not Sora",
           "summary": "This ChatGPT plug-in from Synthesia can turn your documents into marketing videos. Here's how to set it up.",
           "source_name": "Inc.",
           "source_url": "https://www.inc.com/aaron-mok/founders-now-have-a-new-way-to-make-videos-in-chatgpt-its-not-sora/91429491",
           "published_at": "2026-11-02T18:41:50.000Z"
-        },
-        {
-          "headline": "Meta's web crawlers are making life hell for owners of small business websites",
-          "summary": "Meta Platforms has faced intense scrutiny after announcing upcoming changes to its terms that, essentially, allow AI crawlers to run wild across business accounts.",
-          "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91633357/meta-web-crawlers-crash-small-business-websites-ai-bots-surge",
-          "published_at": "2026-11-02T18:31:00.000Z"
-        },
-        {
-          "headline": "A New Study Asked 2 Major Chatbots Who to Vote For. They Gave Very Different Answers",
-          "summary": "A new study analyzing nearly 500 political races reveals that ChatGPT and Grok lean in opposite partisan directions. Here is what it means for founders building with AI.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/nick-hobson/a-new-study-asked-2-major-chatbots-who-to-vote-for-they-gave-very-different-answers/91429579",
-          "published_at": "2026-11-02T18:26:33.000Z"
         }
       ]
     }
@@ -79,8 +79,8 @@
     },
     {
       "source": "America's SBDC",
-      "ok": false,
-      "error": "fetch failed"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "National Small Business Association",
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fast Company",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
