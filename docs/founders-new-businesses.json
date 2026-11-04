@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-04T06:13:12.187Z",
+  "updated_at": "2026-11-04T23:38:50.898Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Cat Wu, a face of the blockbuster app Claude Code, leaves Anthropic",
-          "summary": "Cat Wu exits Anthropic before its IPO. She helped boost Claude Code's success with Boris Cherny, making the AI startup a key player.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
-          "published_at": "2026-11-03T23:55:09.000Z"
+          "headline": "Selling to AI Agents Requires a Different Playbook. Most Founders Have Not Written It Yet",
+          "summary": "AI agents are increasingly handling purchasing decisions that humans used to make themselves.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588",
+          "published_at": "2026-11-04T20:53:58.000Z"
         },
         {
-          "headline": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
-          "summary": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from 'Hercules.'",
-          "source_name": "Los Angeles Times Business",
-          "source_url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
-          "published_at": "2026-11-03T22:32:04.000Z"
+          "headline": "The AI Race Is No Longer About Better Models. Here's Where the Real Value Is Being Created.",
+          "summary": "As AI models mature, the true battleground has shifted from raw intelligence to real-world deployment.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/tech/the-ai-race-is-no-longer-about-better-models-heres-where-the-real-value-is-being-created",
+          "published_at": "2026-11-04T19:30:00.000Z"
         },
         {
-          "headline": "Taiwan's AI stock boom is making early-stage startups a harder sell",
-          "summary": "Taiwan's AI stock boom could be making it harder for young startups to win their first funding checks.",
+          "headline": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
+          "summary": "Instinct founder Noah Shinn says rapid credit card linking shows trust, as AI agent rivals like Meta's Muse and OpenAI's Dots chase shopping.",
           "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11",
-          "published_at": "2026-11-03T05:01:01.000Z"
+          "source_url": "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
+          "published_at": "2026-11-04T19:20:45.000Z"
         }
       ]
     }
@@ -105,22 +105,22 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
