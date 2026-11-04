@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-03T23:19:20.155Z",
+  "updated_at": "2026-11-04T06:13:12.187Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Cat Wu, a face of the blockbuster app Claude Code, leaves Anthropic",
+          "summary": "Cat Wu exits Anthropic before its IPO. She helped boost Claude Code's success with Boris Cherny, making the AI startup a key player.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+          "published_at": "2026-11-03T23:55:09.000Z"
+        },
+        {
           "headline": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos.",
           "summary": "Disney is working with AI startup OpenArt to conceptualize lyric videos, starting with 'Go the Distance' from 'Hercules.'",
           "source_name": "Los Angeles Times Business",
@@ -45,13 +52,6 @@
           "source_name": "Business Insider",
           "source_url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11",
           "published_at": "2026-11-03T05:01:01.000Z"
-        },
-        {
-          "headline": "'Google Slides and PowerPoint Are Dead.' Did AI Really Kill the Corporate Deck?",
-          "summary": "Another casualty of AI might be the PowerPoint and Google Slide presentation. Many are now using coding to create decks.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/google-slides-and-powerpoint-are-dead-did-ai-really-kill-the-corporate-deck",
-          "published_at": "2026-11-03T04:00:00.000Z"
         }
       ]
     }
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
