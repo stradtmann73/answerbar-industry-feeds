@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-04T23:38:50.898Z",
+  "updated_at": "2026-11-05T19:54:52.332Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Selling to AI Agents Requires a Different Playbook. Most Founders Have Not Written It Yet",
-          "summary": "AI agents are increasingly handling purchasing decisions that humans used to make themselves.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/hillary-remy/selling-ai-agents-startup-founders-bots-buying-software/91430588",
-          "published_at": "2026-11-04T20:53:58.000Z"
-        },
-        {
-          "headline": "The AI Race Is No Longer About Better Models. Here's Where the Real Value Is Being Created.",
-          "summary": "As AI models mature, the true battleground has shifted from raw intelligence to real-world deployment.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/the-ai-race-is-no-longer-about-better-models-heres-where-the-real-value-is-being-created",
-          "published_at": "2026-11-04T19:30:00.000Z"
-        },
-        {
-          "headline": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
-          "summary": "Instinct founder Noah Shinn says rapid credit card linking shows trust, as AI agent rivals like Meta's Muse and OpenAI's Dots chase shopping.",
+          "headline": "Legal AI startup Harvey has held early talks about an IPO",
+          "summary": "Harvey, darling of legal tech, has held talks with lawyers at Latham & Watkins about going public. The discussions were preliminary.",
           "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
-          "published_at": "2026-11-04T19:20:45.000Z"
+          "source_url": "https://www.businessinsider.com/legal-ai-startup-harvey-early-ipo-talks-latham-watkins-2026-11",
+          "published_at": "2026-11-05T18:03:08.000Z"
+        },
+        {
+          "headline": "These 5 AI Prompts Can Take Over the Marketing Tasks That Eat Up Your Week",
+          "summary": "Copy these ready-made prompts into your favorite AI tool and get hours of your week back for the work that actually grows your business.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/these-5-ai-prompts-can-take-over-the-marketing-tasks-that-eat-up-your-week",
+          "published_at": "2026-11-05T15:00:00.000Z"
+        },
+        {
+          "headline": "Google's Message to Schools K-12: If You Ban AI, You'll Lose Access to Google Search",
+          "summary": "AI tools will be off by default for students in 2027, but districts that opt out entirely won't have access to search tools.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/googles-message-to-schools-k-12-if-you-ban-ai-youll-lose-access-to-google-search",
+          "published_at": "2026-11-05T14:40:00.000Z"
         }
       ]
     }
@@ -105,22 +105,22 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 2
+      "kept": 4
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Bloomberg",
