@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-05T19:54:52.332Z",
+  "updated_at": "2026-11-06T06:38:33.832Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Legal AI startup Harvey has held early talks about an IPO",
-          "summary": "Harvey, darling of legal tech, has held talks with lawyers at Latham & Watkins about going public. The discussions were preliminary.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/legal-ai-startup-harvey-early-ipo-talks-latham-watkins-2026-11",
-          "published_at": "2026-11-05T18:03:08.000Z"
+          "headline": "The AI boom is the first platform shift where there are 'real advantages' of building from Asia, says Antler's founder and CEO Magnus Grimeland",
+          "summary": "A few factors make Asia an appealing home for startups: a rapidly growing electricity grid, and an abundance of advanced chips and engineering talent.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/05/the-ai-boom-is-the-first-platform-shift-where-there-are-real-advantages-of-building-from-asia-says-antlers-founder-and-ceo-magnus-grimeland/",
+          "published_at": "2026-11-06T04:48:55.000Z"
         },
         {
-          "headline": "These 5 AI Prompts Can Take Over the Marketing Tasks That Eat Up Your Week",
-          "summary": "Copy these ready-made prompts into your favorite AI tool and get hours of your week back for the work that actually grows your business.",
+          "headline": "Everyone Has AI Now. Your Next Competitive Advantage Is the People You're Ignoring.",
+          "summary": "AI is no longer a differentiator in the workplace. Human computing power (in collaboration with AI) is the new focus.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/these-5-ai-prompts-can-take-over-the-marketing-tasks-that-eat-up-your-week",
-          "published_at": "2026-11-05T15:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/everyone-has-ai-now-your-next-competitive-advantage-is-the-people-youre-ignoring",
+          "published_at": "2026-11-05T22:00:00.000Z"
         },
         {
-          "headline": "Google's Message to Schools K-12: If You Ban AI, You'll Lose Access to Google Search",
-          "summary": "AI tools will be off by default for students in 2027, but districts that opt out entirely won't have access to search tools.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/googles-message-to-schools-k-12-if-you-ban-ai-youll-lose-access-to-google-search",
-          "published_at": "2026-11-05T14:40:00.000Z"
+          "headline": "This Fintech Company Will Give Your Small Business a $10,000 Grant. Here's How to Apply",
+          "summary": "Forward Financing launched a Back the Builders Grant Program. It will hand out three $10,000 awards, one of which focuses on AI adoption.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/aaron-mok/this-fintech-company-will-give-your-small-business-a-10000-grant-heres-how-to-apply/91431732",
+          "published_at": "2026-11-05T20:49:16.000Z"
         }
       ]
     }
@@ -105,17 +105,17 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 4
+      "kept": 1
     },
     {
       "source": "Fast Company",

@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-05T19:54:52.332Z",
+  "updated_at": "2026-11-06T06:38:33.832Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -13,13 +13,6 @@
           "source_name": "Chartered Management Institute",
           "source_url": "https://www.managers.org.uk/knowledge-and-insights/article/make-sure-its-your-servant-great-communication-in-the-ai-era/",
           "published_at": "2026-11-05T12:45:51.000Z"
-        },
-        {
-          "headline": "Responsible Use of AI in Consulting: What IMC USA's AI Code Means for You",
-          "summary": "Imagine this: It's Friday evening, and a client report is due Monday. Dana uses an AI tool to draft a market analysis. The result is clean, confident and well organized.",
-          "source_name": "Institute of Management Consultants USA",
-          "source_url": "https://www.imcusa.org/responsible-use-of-ai-in-consulting-what-imc-usas-ai-code-means-for-you/",
-          "published_at": "2026-10-07T03:16:08.000Z"
         }
       ]
     },
