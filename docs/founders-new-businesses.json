@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-06T06:38:33.832Z",
+  "updated_at": "2026-11-06T19:21:44.211Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "The AI boom is the first platform shift where there are 'real advantages' of building from Asia, says Antler's founder and CEO Magnus Grimeland",
-          "summary": "A few factors make Asia an appealing home for startups: a rapidly growing electricity grid, and an abundance of advanced chips and engineering talent.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/05/the-ai-boom-is-the-first-platform-shift-where-there-are-real-advantages-of-building-from-asia-says-antlers-founder-and-ceo-magnus-grimeland/",
-          "published_at": "2026-11-06T04:48:55.000Z"
-        },
-        {
-          "headline": "Everyone Has AI Now. Your Next Competitive Advantage Is the People You're Ignoring.",
-          "summary": "AI is no longer a differentiator in the workplace. Human computing power (in collaboration with AI) is the new focus.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/everyone-has-ai-now-your-next-competitive-advantage-is-the-people-youre-ignoring",
-          "published_at": "2026-11-05T22:00:00.000Z"
-        },
-        {
-          "headline": "This Fintech Company Will Give Your Small Business a $10,000 Grant. Here's How to Apply",
-          "summary": "Forward Financing launched a Back the Builders Grant Program. It will hand out three $10,000 awards, one of which focuses on AI adoption.",
+          "headline": "Small-Business Owners Can Get a Free Crash Course on AI From Google and TikTok. Here's How",
+          "summary": "If you want to learn how to use AI to build an online presence or reach more customers, consider watching this upcoming seminar.",
           "source_name": "Inc.",
-          "source_url": "https://www.inc.com/aaron-mok/this-fintech-company-will-give-your-small-business-a-10000-grant-heres-how-to-apply/91431732",
-          "published_at": "2026-11-05T20:49:16.000Z"
+          "source_url": "https://www.inc.com/aaron-mok/small-business-owners-can-get-a-free-crash-course-on-ai-from-google-and-tiktok-heres-how/91432381",
+          "published_at": "2026-11-06T18:51:13.000Z"
+        },
+        {
+          "headline": "Apple Is Reportedly Slashing AI Budgets. Here's Why Employees Are Worried.",
+          "summary": "Apple is cutting spending allowances for AI tools.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/apple-is-reportedly-slashing-ai-budgets-heres-why-employees-are-worried",
+          "published_at": "2026-11-06T15:54:00.000Z"
+        },
+        {
+          "headline": "Your Next Investor Is Asking ChatGPT About You Before You Even Meet. Here's Why This Forbes 30 Under 30 Founder Is Worried",
+          "summary": "Genius PR founder Kim Than and co-founder Jamie Kingsley reveal how AI is transforming reputation management: from how people vet you before a meeting to how PR teams shape the public record.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/kamya-marwah/investors-asking-chatgpt-about-you-ai-reputation-strategy/91429819",
+          "published_at": "2026-11-06T13:00:00.000Z"
         }
       ]
     }
@@ -110,12 +110,12 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fast Company",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Bloomberg",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",
