@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-07T12:56:50.843Z",
+  "updated_at": "2026-11-07T21:47:16.236Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Big Tech's AI race will save small business owners time. It won't find them customers",
+          "summary": "The next customer is one introduction away.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/",
+          "published_at": "2026-11-07T12:45:00.000Z"
+        },
+        {
           "headline": "This week's drama in startup land exposes the big legal headache of the AI agent era",
           "summary": "Primcloud accused a Railway employee of attempting to breach its system. Laywers say liability is getting complicated in the AI agent era.",
           "source_name": "Business Insider",
@@ -45,13 +52,6 @@
           "source_name": "Inc.",
           "source_url": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970",
           "published_at": "2026-11-06T19:50:13.000Z"
-        },
-        {
-          "headline": "Your Customers Are Using AI Search. They're Still Googling You, Too. Here's What Your Marketing Strategy Might Be Missing.",
-          "summary": "A new audience-overlap finding is a useful corrective to the idea that AI search is replacing Google. And it changes how businesses should think about discovery and measurement.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/customers-use-ai-search-still-googling-you",
-          "published_at": "2026-11-06T19:30:00.000Z"
         }
       ]
     }
@@ -110,7 +110,7 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
