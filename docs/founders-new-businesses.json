@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-07T05:54:43.976Z",
+  "updated_at": "2026-11-07T12:56:50.843Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "This week's drama in startup land exposes the big legal headache of the AI agent era",
+          "summary": "Primcloud accused a Railway employee of attempting to breach its system. Laywers say liability is getting complicated in the AI agent era.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
+          "published_at": "2026-11-07T11:05:01.000Z"
+        },
+        {
           "headline": "LeBron James Sent a Y Combinator-Backed Startup a Cease-and-Desist Letter. That May Have Been the Point",
           "summary": "The Y Combinator-backed startup used an AI-generated version of the NBA star to promote its app. Now the athlete is fighting back.",
           "source_name": "Inc.",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/customers-use-ai-search-still-googling-you",
           "published_at": "2026-11-06T19:30:00.000Z"
-        },
-        {
-          "headline": "Your Business May Be Invisible to AI. Here Are 7 Simple Fixes You Can Make This Week.",
-          "summary": "Learn how to improve AI visibility with seven practical website, content and credibility fixes that help customers discover and evaluate your business.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/how-to-improve-ai-visibility-for-businesses",
-          "published_at": "2026-11-06T19:00:00.000Z"
         }
       ]
     }
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
