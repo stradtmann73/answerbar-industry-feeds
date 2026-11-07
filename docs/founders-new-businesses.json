@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-06T19:21:44.211Z",
+  "updated_at": "2026-11-07T05:54:43.976Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Small-Business Owners Can Get a Free Crash Course on AI From Google and TikTok. Here's How",
-          "summary": "If you want to learn how to use AI to build an online presence or reach more customers, consider watching this upcoming seminar.",
+          "headline": "LeBron James Sent a Y Combinator-Backed Startup a Cease-and-Desist Letter. That May Have Been the Point",
+          "summary": "The Y Combinator-backed startup used an AI-generated version of the NBA star to promote its app. Now the athlete is fighting back.",
           "source_name": "Inc.",
-          "source_url": "https://www.inc.com/aaron-mok/small-business-owners-can-get-a-free-crash-course-on-ai-from-google-and-tiktok-heres-how/91432381",
-          "published_at": "2026-11-06T18:51:13.000Z"
+          "source_url": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970",
+          "published_at": "2026-11-06T19:50:13.000Z"
         },
         {
-          "headline": "Apple Is Reportedly Slashing AI Budgets. Here's Why Employees Are Worried.",
-          "summary": "Apple is cutting spending allowances for AI tools.",
+          "headline": "Your Customers Are Using AI Search. They're Still Googling You, Too. Here's What Your Marketing Strategy Might Be Missing.",
+          "summary": "A new audience-overlap finding is a useful corrective to the idea that AI search is replacing Google. And it changes how businesses should think about discovery and measurement.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/apple-is-reportedly-slashing-ai-budgets-heres-why-employees-are-worried",
-          "published_at": "2026-11-06T15:54:00.000Z"
+          "source_url": "https://www.entrepreneur.com/building-a-business/customers-use-ai-search-still-googling-you",
+          "published_at": "2026-11-06T19:30:00.000Z"
         },
         {
-          "headline": "Your Next Investor Is Asking ChatGPT About You Before You Even Meet. Here's Why This Forbes 30 Under 30 Founder Is Worried",
-          "summary": "Genius PR founder Kim Than and co-founder Jamie Kingsley reveal how AI is transforming reputation management: from how people vet you before a meeting to how PR teams shape the public record.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/kamya-marwah/investors-asking-chatgpt-about-you-ai-reputation-strategy/91429819",
-          "published_at": "2026-11-06T13:00:00.000Z"
+          "headline": "Your Business May Be Invisible to AI. Here Are 7 Simple Fixes You Can Make This Week.",
+          "summary": "Learn how to improve AI visibility with seven practical website, content and credibility fixes that help customers discover and evaluate your business.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/how-to-improve-ai-visibility-for-businesses",
+          "published_at": "2026-11-06T19:00:00.000Z"
         }
       ]
     }
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 2
+      "kept": 3
     },
     {
       "source": "Fast Company",

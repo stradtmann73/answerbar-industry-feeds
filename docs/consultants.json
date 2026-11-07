@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-06T19:21:44.211Z",
+  "updated_at": "2026-11-07T05:54:43.976Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,6 +48,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+          "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+          "published_at": "2026-11-06T21:20:49.000Z"
+        },
+        {
           "headline": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
           "summary": "The tech sell-off exposes fragile promises, while Democratic victories offer a chance to protect workers and hold firms accountable",
           "source_name": "The Guardian",
@@ -60,13 +67,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
           "published_at": "2026-11-06T14:00:45.000Z"
-        },
-        {
-          "headline": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-          "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
-          "source_name": "NPR Technology",
-          "source_url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-          "published_at": "2026-11-02T20:02:41.000Z"
         }
       ]
     }
@@ -80,7 +80,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "EMCC Global",
