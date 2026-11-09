@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-07T21:47:16.236Z",
+  "updated_at": "2026-11-09T06:19:51.921Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "I'm 22 and I bet $80,000 of my savings on an industrial AI startup. Now I'm dropping out of college to go all-in.",
+          "summary": "The 22-year-old founder of Y Combinator-backed Operon says his youth has helped him attract clients in an industry dominated by older executives.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/ai-startup-founder-drop-out-college-degree-education-operon-industrial-2026-11",
+          "published_at": "2026-11-09T05:01:01.000Z"
+        },
+        {
+          "headline": "20-Somethings Are Ditching Entry-Level Jobs to Become Their Own Bosses",
+          "summary": "AI is shaking up the job market for younger workers, and making it easier for them to become entrepreneurs.",
+          "source_name": "The Wall Street Journal",
+          "source_url": "https://www.wsj.com/lifestyle/careers/20-somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-168d1f48?mod=pls_whats_news_us_business_f",
+          "published_at": "2026-11-09T01:00:00.000Z"
+        },
+        {
           "headline": "Big Tech's AI race will save small business owners time. It won't find them customers",
           "summary": "The next customer is one introduction away.",
           "source_name": "Fortune",
           "source_url": "https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/",
           "published_at": "2026-11-07T12:45:00.000Z"
-        },
-        {
-          "headline": "This week's drama in startup land exposes the big legal headache of the AI agent era",
-          "summary": "Primcloud accused a Railway employee of attempting to breach its system. Laywers say liability is getting complicated in the AI agent era.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "published_at": "2026-11-07T11:05:01.000Z"
-        },
-        {
-          "headline": "LeBron James Sent a Y Combinator-Backed Startup a Cease-and-Desist Letter. That May Have Been the Point",
-          "summary": "The Y Combinator-backed startup used an AI-generated version of the NBA star to promote its app. Now the athlete is fighting back.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970",
-          "published_at": "2026-11-06T19:50:13.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Bloomberg",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
