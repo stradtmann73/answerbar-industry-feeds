@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-09T06:19:51.921Z",
+  "updated_at": "2026-11-09T22:18:30.411Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "I'm 22 and I bet $80,000 of my savings on an industrial AI startup. Now I'm dropping out of college to go all-in.",
-          "summary": "The 22-year-old founder of Y Combinator-backed Operon says his youth has helped him attract clients in an industry dominated by older executives.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/ai-startup-founder-drop-out-college-degree-education-operon-industrial-2026-11",
-          "published_at": "2026-11-09T05:01:01.000Z"
+          "headline": "This Former NASA Engineer Has 85 Million YouTube Subscribers. He Says This Is How to Differentiate Your Videos From AI Slop.",
+          "summary": "The YouTube star explains what makes content valuable as it gets cheaper to produce.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop",
+          "published_at": "2026-11-09T19:33:44.000Z"
         },
         {
-          "headline": "20-Somethings Are Ditching Entry-Level Jobs to Become Their Own Bosses",
-          "summary": "AI is shaking up the job market for younger workers, and making it easier for them to become entrepreneurs.",
-          "source_name": "The Wall Street Journal",
-          "source_url": "https://www.wsj.com/lifestyle/careers/20-somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-168d1f48?mod=pls_whats_news_us_business_f",
-          "published_at": "2026-11-09T01:00:00.000Z"
+          "headline": "AI Is Making Expertise Cheaper. Here's What Will Make You More Valuable.",
+          "summary": "When customers can access sophisticated knowledge through AI, entrepreneurs need to rethink what makes their expertise valuable.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/ai-is-making-expertise-cheaper-heres-what-will-make-you-more-valuable",
+          "published_at": "2026-11-09T19:00:00.000Z"
         },
         {
-          "headline": "Big Tech's AI race will save small business owners time. It won't find them customers",
-          "summary": "The next customer is one introduction away.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/07/alignable-ai-assistants-small-business-referrals-eric-groves/",
-          "published_at": "2026-11-07T12:45:00.000Z"
+          "headline": "AI Is Changing the Economics of SaaS Partnerships. Here's How Founders Can Capitalize.",
+          "summary": "AI is reshaping the SaaS partner model, creating opportunities beyond traditional referral commissions and low-margin services.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/tech/ai-is-changing-the-economics-of-saas-partnerships-heres-how-founders-can-capitalize",
+          "published_at": "2026-11-09T18:00:00.000Z"
         }
       ]
     }
@@ -115,12 +115,12 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Bloomberg",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",

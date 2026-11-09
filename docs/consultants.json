@@ -80,7 +80,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "EMCC Global",
@@ -120,7 +120,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "BBC News",
