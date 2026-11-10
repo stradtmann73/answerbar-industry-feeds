@@ -1,12 +1,19 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-10T07:13:32.239Z",
+  "updated_at": "2026-11-10T19:41:51.742Z",
   "columns": [
     {
       "key": "professional_bodies",
       "label": "Professional bodies",
       "items": [
+        {
+          "headline": "How a Rural New Mexico Mattress Store Turned AI into Its Competitive Edge",
+          "summary": "From a small showroom in Alamogordo, New Mexico, Javier Casillas competes with national retailers using AI to give his lean team the capacity of a much larger one.",
+          "source_name": "America's SBDC",
+          "source_url": "https://americassbdc.org/how-a-rural-new-mexico-mattress-store-turned-ai-into-its-competitive-edge/",
+          "published_at": "2026-11-10T16:00:00.000Z"
+        },
         {
           "headline": "U.S. Chamber Hosted Small Business AI Forum During National Free Enterprise Express Opportunity Tour",
           "summary": "The forum highlighted findings from new U.S. Chamber research on how AI is driving growth and job creation among small businesses",
@@ -33,25 +40,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Meet Jensen Huang, Nvidia's founder and CEO",
-          "summary": "Nvidia founder and CEO Jensen Huang rose from a job at Denny's to becoming one of the faces of the AI boom",
+          "headline": "Most solopreneurs turn to AI before hiring others, data suggests. Here's why",
+          "summary": "Going out on your own and starting a business can be daunting. Every decision feels heavy.",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91638967/most-solopreneurs-turn-to-ai-before-hiring-others-data-suggests-heres-why",
+          "published_at": "2026-11-10T18:00:00.000Z"
+        },
+        {
+          "headline": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+          "summary": "Graphon is trying to solve agents' memory problem with software that lets agents store and retrieve information over time.",
           "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/jensen-huang",
-          "published_at": "2026-11-10T00:40:12.000Z"
+          "source_url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+          "published_at": "2026-11-10T16:01:01.000Z"
         },
         {
-          "headline": "This Former NASA Engineer Has 85 Million YouTube Subscribers. He Says This Is How to Differentiate Your Videos From AI Slop.",
-          "summary": "The YouTube star explains what makes content valuable as it gets cheaper to produce.",
+          "headline": "Larry Page Reportedly Gave This Two-Word Prediction About the Future of AI. Elon Musk Says It's 'Accurate.'",
+          "summary": "The Google co-founder's prediction came secondhand via a popular investing podcast. But that didn't stop Musk from weighing in.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop",
-          "published_at": "2026-11-09T19:33:44.000Z"
-        },
-        {
-          "headline": "AI Is Making Expertise Cheaper. Here's What Will Make You More Valuable.",
-          "summary": "When customers can access sophisticated knowledge through AI, entrepreneurs need to rethink what makes their expertise valuable.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/ai-is-making-expertise-cheaper-heres-what-will-make-you-more-valuable",
-          "published_at": "2026-11-09T19:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/larry-page-two-word-prediction-about-the-future-of-ai-elon-musk-says-accurate",
+          "published_at": "2026-11-10T16:00:00.000Z"
         }
       ]
     }
@@ -80,7 +87,7 @@
     {
       "source": "America's SBDC",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "National Small Business Association",
@@ -105,7 +112,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Fortune",
