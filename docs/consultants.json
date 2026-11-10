@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-07T05:54:43.976Z",
+  "updated_at": "2026-11-10T07:13:32.239Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,6 +48,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+          "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T01:55:22.000Z"
+        },
+        {
           "headline": "Three men charged in US with using AI to impersonate CEOs and steal millions",
           "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments",
           "source_name": "The Guardian",
@@ -60,13 +67,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
           "published_at": "2026-11-06T17:58:05.000Z"
-        },
-        {
-          "headline": "Fearing AI disruption, white-collar workers are quitting their jobs",
-          "summary": "While there's no evidence linking AI to mass layoffs, the tech has already 'changed worker psychology'",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
-          "published_at": "2026-11-06T14:00:45.000Z"
         }
       ]
     }
@@ -120,12 +120,12 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "BBC News",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "NPR Technology",

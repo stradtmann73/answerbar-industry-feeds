@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-09T22:18:30.411Z",
+  "updated_at": "2026-11-10T07:13:32.239Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Meet Jensen Huang, Nvidia's founder and CEO",
+          "summary": "Nvidia founder and CEO Jensen Huang rose from a job at Denny's to becoming one of the faces of the AI boom",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/jensen-huang",
+          "published_at": "2026-11-10T00:40:12.000Z"
+        },
+        {
           "headline": "This Former NASA Engineer Has 85 Million YouTube Subscribers. He Says This Is How to Differentiate Your Videos From AI Slop.",
           "summary": "The YouTube star explains what makes content valuable as it gets cheaper to produce.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/ai-is-making-expertise-cheaper-heres-what-will-make-you-more-valuable",
           "published_at": "2026-11-09T19:00:00.000Z"
-        },
-        {
-          "headline": "AI Is Changing the Economics of SaaS Partnerships. Here's How Founders Can Capitalize.",
-          "summary": "AI is reshaping the SaaS partner model, creating opportunities beyond traditional referral commissions and low-margin services.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/ai-is-changing-the-economics-of-saas-partnerships-heres-how-founders-can-capitalize",
-          "published_at": "2026-11-09T18:00:00.000Z"
         }
       ]
     }
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
