@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-10T19:41:51.742Z",
+  "updated_at": "2026-11-11T06:10:08.205Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,6 +40,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "This Billionaire Invested in OpenAI in 2019. Here's What He's Betting on Next.",
+          "summary": "This billionaire is betting that AI will revamp websites as we know them.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/this-billionaire-invested-in-openai-in-2019-what-he-is-betting-on-next",
+          "published_at": "2026-11-10T20:06:22.000Z"
+        },
+        {
           "headline": "Most solopreneurs turn to AI before hiring others, data suggests. Here's why",
           "summary": "Going out on your own and starting a business can be daunting. Every decision feels heavy.",
           "source_name": "Fast Company",
@@ -52,13 +59,6 @@
           "source_name": "Business Insider",
           "source_url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
           "published_at": "2026-11-10T16:01:01.000Z"
-        },
-        {
-          "headline": "Larry Page Reportedly Gave This Two-Word Prediction About the Future of AI. Elon Musk Says It's 'Accurate.'",
-          "summary": "The Google co-founder's prediction came secondhand via a popular investing podcast. But that didn't stop Musk from weighing in.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/larry-page-two-word-prediction-about-the-future-of-ai-elon-musk-says-accurate",
-          "published_at": "2026-11-10T16:00:00.000Z"
         }
       ]
     }
@@ -122,7 +122,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 4
+      "kept": 1
     },
     {
       "source": "Fast Company",
@@ -167,7 +167,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",
