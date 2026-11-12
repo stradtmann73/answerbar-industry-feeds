@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-11T14:16:14.663Z",
+  "updated_at": "2026-11-12T00:39:18.926Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,25 +40,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Ivan Zhao Says AI Can Help Anyone Build. Taste Is the Hard Part.",
-          "summary": "As AI makes writing and prototyping easier, Zhao says founders need to get better at deciding what deserves to exist. For the Notion CEO, that means developing a point of view and looking beyond tech for inspiration.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/inc-video/ivan-zhao-says-ai-can-help-anyone-build-taste-is-the-hard-part/91433672",
-          "published_at": "2026-11-11T14:00:00.000Z"
-        },
-        {
-          "headline": "Meet Rox, the $1.3 billion AI sales startup betting it can take on Salesforce",
-          "summary": "Exclusive: The company has raised $100 million in Series B funding at a $1.3 billion valuation.",
+          "headline": "A day after Anthropic's office push, Databricks jumps in with AI agents that never sleep",
+          "summary": "The $190 billion AI startup's new tool, which operates in the background and shadows the user's daily workday, comes on the heels of Anthropic's renewed push for corporate users.",
           "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/",
-          "published_at": "2026-11-11T12:56:42.000Z"
+          "source_url": "https://fortune.com/2026/11/11/databricks/",
+          "published_at": "2026-11-11T22:07:04.000Z"
         },
         {
-          "headline": "Russian-Diesel Plan Founders as U.S.-Bound Tankers Change Course",
-          "summary": "Plus, SoftBank is getting bit by its bet on electricity for AI, and the shrinking U.S. cattle herd is set to keep beef prices high.",
-          "source_name": "The Wall Street Journal",
-          "source_url": "https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9?mod=pls_whats_news_us_business_f",
-          "published_at": "2026-11-11T11:55:00.000Z"
+          "headline": "Small Businesses Can Now Claim a Free ChatGPT Profile to Reach Customers. Here's How to Set It Up",
+          "summary": "Businesses in ChatGPT is a feature designed to help business owners get their products discovered in the AI chatbot.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/aaron-mok/small-businesses-can-now-claim-a-free-chatgpt-profile-to-reach-customers-heres-how-to-set-it-up/91434978",
+          "published_at": "2026-11-11T21:48:51.000Z"
+        },
+        {
+          "headline": "Niche work if you can get it",
+          "summary": "Legal AI startups like EvenUp and Harvey face bubble risks as law firms, Stanford and investors test new tools at LegalTech Fund Summit.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/legal-ai-startups-face-bubble-fears-as-evenup-doubles-down-2026-11",
+          "published_at": "2026-11-11T19:58:18.000Z"
         }
       ]
     }
@@ -112,7 +112,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fortune",
@@ -167,7 +167,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Business News Daily",
