@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-10T07:13:32.239Z",
+  "updated_at": "2026-11-12T15:08:29.142Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,25 +48,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
-          "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-10T01:55:22.000Z"
+          "headline": "US workers are fighting to protect their jobs from AI, and winning",
+          "summary": "As governments adopt AI, workers are gaining ground in how it's used and securing safeguards against its harms",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+          "published_at": "2026-11-12T15:00:44.000Z"
         },
         {
-          "headline": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-          "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-          "published_at": "2026-11-06T21:20:49.000Z"
+          "headline": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+          "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
+          "source_name": "NPR",
+          "source_url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+          "published_at": "2026-11-12T14:17:20.000Z"
         },
         {
-          "headline": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
-          "summary": "The tech sell-off exposes fragile promises, while Democratic victories offer a chance to protect workers and hold firms accountable",
+          "headline": "Fewer hours and higher wages, or more burnout and surveillance: employers told to prepare for AI",
+          "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts",
           "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
-          "published_at": "2026-11-06T17:58:05.000Z"
+          "source_url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+          "published_at": "2026-11-12T06:55:44.000Z"
         }
       ]
     }
@@ -95,7 +95,7 @@
     {
       "source": "NPR",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MIT Sloan Management Review",
@@ -120,7 +120,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "BBC News",
@@ -130,7 +130,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 0
+      "kept": 1
     }
   ]
 }

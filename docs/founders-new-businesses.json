@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-12T00:39:18.926Z",
+  "updated_at": "2026-11-12T15:08:29.142Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,25 +40,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "A day after Anthropic's office push, Databricks jumps in with AI agents that never sleep",
-          "summary": "The $190 billion AI startup's new tool, which operates in the background and shadows the user's daily workday, comes on the heels of Anthropic's renewed push for corporate users.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/11/databricks/",
-          "published_at": "2026-11-11T22:07:04.000Z"
-        },
-        {
-          "headline": "Small Businesses Can Now Claim a Free ChatGPT Profile to Reach Customers. Here's How to Set It Up",
-          "summary": "Businesses in ChatGPT is a feature designed to help business owners get their products discovered in the AI chatbot.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/aaron-mok/small-businesses-can-now-claim-a-free-chatgpt-profile-to-reach-customers-heres-how-to-set-it-up/91434978",
-          "published_at": "2026-11-11T21:48:51.000Z"
-        },
-        {
-          "headline": "Niche work if you can get it",
-          "summary": "Legal AI startups like EvenUp and Harvey face bubble risks as law firms, Stanford and investors test new tools at LegalTech Fund Summit.",
+          "headline": "The career rise and fall of Jensen Huang, Nvidia's founder and former CEO",
+          "summary": "Nvidia founder and former CEO Jensen Huang rose from a job at Denny's to becoming one of the faces of the AI boom before an abrupt fall.",
           "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/legal-ai-startups-face-bubble-fears-as-evenup-doubles-down-2026-11",
-          "published_at": "2026-11-11T19:58:18.000Z"
+          "source_url": "https://www.businessinsider.com/jensen-huang",
+          "published_at": "2026-11-12T14:55:07.000Z"
+        },
+        {
+          "headline": "Nvidia Board Must Craft Epic Job Description for New CEO",
+          "summary": "Plus, AI startup LangChain more than doubles valuation to $3 billion",
+          "source_name": "The Wall Street Journal",
+          "source_url": "https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb?mod=pls_whats_news_us_business_f",
+          "published_at": "2026-11-12T14:37:00.000Z"
+        },
+        {
+          "headline": "Your Next Customer May Never Visit Google. Here's What Every Business Owner Needs to Do Now",
+          "summary": "If your business isn't optimized for ChatGPT's new discovery tools yet, you're already behind the curve on the next evolution of search.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/michael-tasner/openai-business-hub-chatgpt-profile-ai-visibility/91434674",
+          "published_at": "2026-11-12T12:00:00.000Z"
         }
       ]
     }
@@ -112,12 +112,12 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 3
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
@@ -152,7 +152,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 2
+      "kept": 3
     },
     {
       "source": "Bloomberg",
@@ -167,7 +167,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Business News Daily",
@@ -182,7 +182,7 @@
     {
       "source": "Los Angeles Times Business",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "USA Today Money",
