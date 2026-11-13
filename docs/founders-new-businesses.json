@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-12T23:35:37.716Z",
+  "updated_at": "2026-11-13T06:39:25.422Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,25 +40,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "At a major Silicon Valley AI conference, VCs and CEOs grapple with a future without Jensen Huang",
+          "summary": "At the Cerebral Valley AI Summit, founders and investors weighed what Jensen Huang's exit means for Nvidia's chips, startup investments, and rivals.",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/nvidia-jensen-huang-exit-ai-startups-ceos-vcs-cerebral-valley",
+          "published_at": "2026-11-13T03:47:00.000Z"
+        },
+        {
+          "headline": "Your Customers Are Asking AI About Your Company. Here's How to Audit What It Says.",
+          "summary": "AI is changing how customers research businesses. CEOs need this eight-step, modern reputation audit to figure out what customers are seeing.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says",
+          "published_at": "2026-11-13T00:00:00.000Z"
+        },
+        {
           "headline": "Small Business Owners Have More AI Insight Than Ever, But It's Stuck in Dashboards. Here's How to Put It to Work.",
           "summary": "Small business owners today have access to a significant volume of data when it comes to managing their business, and their employee data may reveal insights that are hiding in plain sight.",
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/business-news/small-business-owners-have-more-ai-insight-than-ever-but-its-stuck-in-dashboards-heres-how-to-put-it-to-work",
           "published_at": "2026-11-12T20:00:00.000Z"
-        },
-        {
-          "headline": "Nvidia loses its 'Godfather of AI' and now faces first big test without him",
-          "summary": "Jensen Huang's resignation sent Nvidia stock plunging 14% before losses narrowed, as analysts weigh the AI giant's path forward without its co-founder.",
-          "source_name": "Fox Business",
-          "source_url": "https://www.foxbusiness.com/markets/nvidia-loses-its-godfather-ai-now-faces-first-big-test-without-him",
-          "published_at": "2026-11-12T19:53:10.000Z"
-        },
-        {
-          "headline": "Frontier Labs Are Buying Up Internal Company Data to Train AI. The Marketplace is Booming Despite Privacy Concerns",
-          "summary": "Emails, Slack threads, and call transcripts have become a hot commodity in the AI boom. Founders see a windfall, and critics see a privacy problem with almost no regulation.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/sam-blum/frontier-labs-are-buying-up-internal-company-data-to-train-ai-the-marketplace-is-booming-despite-privacy-concerns/91433411",
-          "published_at": "2026-11-12T19:10:38.000Z"
         }
       ]
     }
@@ -122,7 +122,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 2
+      "kept": 3
     },
     {
       "source": "Fast Company",
@@ -152,7 +152,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 3
+      "kept": 2
     },
     {
       "source": "Bloomberg",
@@ -167,7 +167,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
