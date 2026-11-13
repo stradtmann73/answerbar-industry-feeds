@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-13T06:39:25.422Z",
+  "updated_at": "2026-11-13T19:38:27.941Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -20,13 +20,6 @@
           "source_name": "U.S. Chamber of Commerce",
           "source_url": "https://www.uschamber.com/economy/u-s-chamber-hosted-small-business-ai-forum-during-national-free-enterprise-express-opportunity-tour",
           "published_at": "2026-10-30T20:50:00.000Z"
-        },
-        {
-          "headline": "Small Businesses Share Benefits of AI on Capitol Hill",
-          "summary": "Members of the U.S. Chamber's Small Business Council brought concerns from Main Streets across the country to Washington during their recent fall meeting.",
-          "source_name": "U.S. Chamber of Commerce",
-          "source_url": "https://www.uschamber.com/small-business/small-businesses-share-benefits-of-ai-on-capitol-hill",
-          "published_at": "2026-10-14T15:52:00.000Z"
         }
       ]
     },
@@ -112,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 3
+      "kept": 0
     },
     {
       "source": "Fortune",
@@ -127,7 +120,7 @@
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -152,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Bloomberg",
@@ -167,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",
