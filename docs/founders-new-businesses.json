@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-13T19:38:27.941Z",
+  "updated_at": "2026-11-14T06:16:15.963Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "At a major Silicon Valley AI conference, VCs and CEOs grapple with a future without Jensen Huang",
-          "summary": "At the Cerebral Valley AI Summit, founders and investors weighed what Jensen Huang's exit means for Nvidia's chips, startup investments, and rivals.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/nvidia-jensen-huang-exit-ai-startups-ceos-vcs-cerebral-valley",
-          "published_at": "2026-11-13T03:47:00.000Z"
+          "headline": "Amber Venz Box Has the Inside Scoop on Where AI Shopping Goes Next",
+          "summary": "The LTK co-founder shares what comes next for influencers during Inc.'s final National Entrepreneurship Month session.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/brian-contreras/amber-venz-box-has-the-inside-scoop-on-where-ai-shopping-goes-next/91434944",
+          "published_at": "2026-11-13T21:48:59.000Z"
         },
         {
-          "headline": "Your Customers Are Asking AI About Your Company. Here's How to Audit What It Says.",
-          "summary": "AI is changing how customers research businesses. CEOs need this eight-step, modern reputation audit to figure out what customers are seeing.",
+          "headline": "Agentic AI Governance Doesn't Have to Be Complicated. Most of It Comes Down to These 4 Questions.",
+          "summary": "Agentic AI governance frameworks look complicated, but every one asks your business the same four questions.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says",
-          "published_at": "2026-11-13T00:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/tech/agentic-ai-governance-frameworks-questions",
+          "published_at": "2026-11-13T19:00:00.000Z"
         },
         {
-          "headline": "Small Business Owners Have More AI Insight Than Ever, But It's Stuck in Dashboards. Here's How to Put It to Work.",
-          "summary": "Small business owners today have access to a significant volume of data when it comes to managing their business, and their employee data may reveal insights that are hiding in plain sight.",
+          "headline": "What I Learned Spending Thousands on Meta Ads to Launch a New Product",
+          "summary": "I used to measure ad spend of tens of millions a month with a large team. Now I do most of that work on my own with AI, and here is what it can't do.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/small-business-owners-have-more-ai-insight-than-ever-but-its-stuck-in-dashboards-heres-how-to-put-it-to-work",
-          "published_at": "2026-11-12T20:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/building-a-business/what-i-learned-spending-thousands-on-meta-ads-to-launch-a-new-product",
+          "published_at": "2026-11-13T18:00:00.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Fortune",
