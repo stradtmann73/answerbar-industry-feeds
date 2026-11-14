@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-14T06:16:15.963Z",
+  "updated_at": "2026-11-14T13:35:58.819Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "You're Not Behind on AI Agents Yet. Learn How They Work in 10 Minutes, Before Your Competitors Get Ahead",
+          "summary": "Your competitors are building AI teams. Here's where to start.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/youre-not-behind-on-ai-agents-yet-learn-how-they-work-in-10-minutes-before-your-competitors-get-ahead",
+          "published_at": "2026-11-14T03:00:00.000Z"
+        },
+        {
           "headline": "Amber Venz Box Has the Inside Scoop on Where AI Shopping Goes Next",
           "summary": "The LTK co-founder shares what comes next for influencers during Inc.'s final National Entrepreneurship Month session.",
           "source_name": "Inc.",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/business-news/tech/agentic-ai-governance-frameworks-questions",
           "published_at": "2026-11-13T19:00:00.000Z"
-        },
-        {
-          "headline": "What I Learned Spending Thousands on Meta Ads to Launch a New Product",
-          "summary": "I used to measure ad spend of tens of millions a month with a large team. Now I do most of that work on my own with AI, and here is what it can't do.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/what-i-learned-spending-thousands-on-meta-ads-to-launch-a-new-product",
-          "published_at": "2026-11-13T18:00:00.000Z"
         }
       ]
     }
