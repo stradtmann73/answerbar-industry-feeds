@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-14T13:35:58.819Z",
+  "updated_at": "2026-11-14T22:20:44.997Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "The downfall of AI's $5.7 trillion man",
+          "summary": "The founder and CEO turned Nvidia into the linchpin of the AI boom. Can it survive without him?",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/",
+          "published_at": "2026-11-14T18:07:44.000Z"
+        },
+        {
           "headline": "You're Not Behind on AI Agents Yet. Learn How They Work in 10 Minutes, Before Your Competitors Get Ahead",
           "summary": "Your competitors are building AI teams. Here's where to start.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Inc.",
           "source_url": "https://www.inc.com/brian-contreras/amber-venz-box-has-the-inside-scoop-on-where-ai-shopping-goes-next/91434944",
           "published_at": "2026-11-13T21:48:59.000Z"
-        },
-        {
-          "headline": "Agentic AI Governance Doesn't Have to Be Complicated. Most of It Comes Down to These 4 Questions.",
-          "summary": "Agentic AI governance frameworks look complicated, but every one asks your business the same four questions.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/agentic-ai-governance-frameworks-questions",
-          "published_at": "2026-11-13T19:00:00.000Z"
         }
       ]
     }
@@ -110,7 +110,7 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
