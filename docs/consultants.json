@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-12T15:08:29.142Z",
+  "updated_at": "2026-11-15T18:49:05.737Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -28,6 +28,13 @@
       "label": "Research",
       "items": [
         {
+          "headline": "AI is set to change the graduate job market. Here's how unis can respond",
+          "summary": "Tech companies are pursuing artificial intelligence systems capable of matching or exceeding human performance across a broad range of intellectual tasks.",
+          "source_name": "The Conversation",
+          "source_url": "https://theconversation.com/ai-is-set-to-change-the-graduate-job-market-heres-how-unis-can-respond-295450",
+          "published_at": "2026-11-15T17:25:31.000Z"
+        },
+        {
           "headline": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
           "summary": "Men's employment grew faster than women's in occupations most exposed to AI, a gap driven largely by workers without a bachelor's degree.",
           "source_name": "Pew Research Center",
@@ -48,6 +55,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+          "summary": "The role AI played in job losses at Australia's NAB, Qantas, Canva and Atlassian is far from clear, but it may prove to have more impact on the stock market than the jobs market",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+          "published_at": "2026-11-15T14:00:19.000Z"
+        },
+        {
           "headline": "US workers are fighting to protect their jobs from AI, and winning",
           "summary": "As governments adopt AI, workers are gaining ground in how it's used and securing safeguards against its harms",
           "source_name": "The Guardian",
@@ -60,13 +74,6 @@
           "source_name": "NPR",
           "source_url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
           "published_at": "2026-11-12T14:17:20.000Z"
-        },
-        {
-          "headline": "Fewer hours and higher wages, or more burnout and surveillance: employers told to prepare for AI",
-          "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-          "published_at": "2026-11-12T06:55:44.000Z"
         }
       ]
     }
@@ -110,7 +117,7 @@
     {
       "source": "The Conversation",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MIT Technology Review",
