@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-14T22:20:44.997Z",
+  "updated_at": "2026-11-16T21:58:33.463Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "The downfall of AI's $5.7 trillion man",
-          "summary": "The founder and CEO turned Nvidia into the linchpin of the AI boom. Can it survive without him?",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/14/jensen-huang-nvidia-ai-5-7-trillion-downfall/",
-          "published_at": "2026-11-14T18:07:44.000Z"
-        },
-        {
-          "headline": "You're Not Behind on AI Agents Yet. Learn How They Work in 10 Minutes, Before Your Competitors Get Ahead",
-          "summary": "Your competitors are building AI teams. Here's where to start.",
+          "headline": "The 1 Skill AI Will Never Master, No Matter How Advanced It Gets",
+          "summary": "As AI does more, we need to know its limits.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/youre-not-behind-on-ai-agents-yet-learn-how-they-work-in-10-minutes-before-your-competitors-get-ahead",
-          "published_at": "2026-11-14T03:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/tech/the-1-skill-ai-will-never-master-no-matter-how-advanced-it-gets",
+          "published_at": "2026-11-16T19:30:00.000Z"
         },
         {
-          "headline": "Amber Venz Box Has the Inside Scoop on Where AI Shopping Goes Next",
-          "summary": "The LTK co-founder shares what comes next for influencers during Inc.'s final National Entrepreneurship Month session.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/brian-contreras/amber-venz-box-has-the-inside-scoop-on-where-ai-shopping-goes-next/91434944",
-          "published_at": "2026-11-13T21:48:59.000Z"
+          "headline": "The AI-Driven Agency Apocalypse Has Arrived. Here's How to Survive It.",
+          "summary": "As AI disrupts every industry and generating new business becomes tougher, the agencies that retain their clients will be the agencies that survive.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/the-ai-driven-agency-apocalypse-has-arrived-heres-how-to-survive-it",
+          "published_at": "2026-11-16T19:00:00.000Z"
+        },
+        {
+          "headline": "Why Growing Brands Have an Edge Over Established Competitors in the AI Search Race",
+          "summary": "Here's why, and how, high-growth brands can leverage AEO to make gains against bigger competitors.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/how-high-growth-brands-can-win-the-ai-search-race",
+          "published_at": "2026-11-16T18:00:00.000Z"
         }
       ]
     }
@@ -60,7 +60,7 @@
     {
       "source": "U.S. Chamber of Commerce",
       "ok": true,
-      "kept": 4
+      "kept": 3
     },
     {
       "source": "SBA Office of Advocacy",
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
@@ -115,12 +115,12 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Bloomberg",
