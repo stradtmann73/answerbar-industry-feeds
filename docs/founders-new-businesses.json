@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-17T07:51:32.921Z",
+  "updated_at": "2026-11-17T20:52:28.065Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "I've Spent the Past Year Analyzing Why AI Recommends Some Products Over Others. Here's How to Win the Holiday Shopping Game.",
-          "summary": "Courtney Sandora, founder of Go Social, helps brands compete across AI search.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/ive-spent-the-past-year-analyzing-why-ai-recommends-some-products-over-others",
-          "published_at": "2026-11-16T21:11:34.000Z"
+          "headline": "'What if the input isn't the news? What if the input is you?' Bill Gross gave away 1.2 million AI business ideas for free, the Fortune 500 is next",
+          "summary": "Idealab's founder says his system found 3,867 businesses in Caltech's patents. Now he's pitching it to corporate R&D departments.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/17/bill-gross-idealab-ai-patents-fortune-500-license-caltech/",
+          "published_at": "2026-11-17T17:44:32.000Z"
         },
         {
-          "headline": "The 1 Skill AI Will Never Master, No Matter How Advanced It Gets",
-          "summary": "As AI does more, we need to know its limits.",
+          "headline": "ChatGPT Plays Favorites With 20+ Publishers. Here's How to Get Your Brand on the Guest List.",
+          "summary": "More than 20 publishers have sold OpenAI access to their journalism, and new research suggests their pages arrive in ChatGPT pre-summarized and ranked first.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/the-1-skill-ai-will-never-master-no-matter-how-advanced-it-gets",
-          "published_at": "2026-11-16T19:30:00.000Z"
+          "source_url": "https://www.entrepreneur.com/building-a-business/business-operations-logistics/chatgpt-plays-favorites-with-20-publishers-heres-how-to-get-your-brand-on-the-guest-list",
+          "published_at": "2026-11-17T15:30:00.000Z"
         },
         {
-          "headline": "The AI-Driven Agency Apocalypse Has Arrived. Here's How to Survive It.",
-          "summary": "As AI disrupts every industry and generating new business becomes tougher, the agencies that retain their clients will be the agencies that survive.",
+          "headline": "The 1-Hour Test That Shows Where AI Will Actually Pay Off",
+          "summary": "Many AI tools work exactly as designed yet deliver little value because they add friction to the way people actually work instead of removing it.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/the-ai-driven-agency-apocalypse-has-arrived-heres-how-to-survive-it",
-          "published_at": "2026-11-16T19:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/leadership/the-1-hour-test-that-shows-where-ai-will-actually-pay-off/505403",
+          "published_at": "2026-11-17T14:10:00.000Z"
         }
       ]
     }
@@ -110,17 +110,17 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 5
+      "kept": 2
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Bloomberg",

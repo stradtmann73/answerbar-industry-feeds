@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-15T18:49:05.737Z",
+  "updated_at": "2026-11-17T20:52:28.065Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -55,6 +55,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "She went to college to become a social worker. Now she's joined the skilled trades",
+          "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+          "source_name": "NPR",
+          "source_url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+          "published_at": "2026-11-17T10:00:00.000Z"
+        },
+        {
           "headline": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
           "summary": "The role AI played in job losses at Australia's NAB, Qantas, Canva and Atlassian is far from clear, but it may prove to have more impact on the stock market than the jobs market",
           "source_name": "The Guardian",
@@ -67,13 +74,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
           "published_at": "2026-11-12T15:00:44.000Z"
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
-          "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
-          "source_name": "NPR",
-          "source_url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
-          "published_at": "2026-11-12T14:17:20.000Z"
         }
       ]
     }
@@ -102,7 +102,7 @@
     {
       "source": "NPR",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MIT Sloan Management Review",
