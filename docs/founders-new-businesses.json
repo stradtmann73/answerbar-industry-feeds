@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-16T21:58:33.463Z",
+  "updated_at": "2026-11-17T07:51:32.921Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "I've Spent the Past Year Analyzing Why AI Recommends Some Products Over Others. Here's How to Win the Holiday Shopping Game.",
+          "summary": "Courtney Sandora, founder of Go Social, helps brands compete across AI search.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/ive-spent-the-past-year-analyzing-why-ai-recommends-some-products-over-others",
+          "published_at": "2026-11-16T21:11:34.000Z"
+        },
+        {
           "headline": "The 1 Skill AI Will Never Master, No Matter How Advanced It Gets",
           "summary": "As AI does more, we need to know its limits.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/the-ai-driven-agency-apocalypse-has-arrived-heres-how-to-survive-it",
           "published_at": "2026-11-16T19:00:00.000Z"
-        },
-        {
-          "headline": "Why Growing Brands Have an Edge Over Established Competitors in the AI Search Race",
-          "summary": "Here's why, and how, high-growth brands can leverage AEO to make gains against bigger competitors.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/how-high-growth-brands-can-win-the-ai-search-race",
-          "published_at": "2026-11-16T18:00:00.000Z"
         }
       ]
     }
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 4
+      "kept": 5
     },
     {
       "source": "Fast Company",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Bloomberg",
