@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-17T20:52:28.065Z",
+  "updated_at": "2026-11-18T20:27:49.394Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,13 +40,6 @@
           "source_name": "Pew Research Center",
           "source_url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
           "published_at": "2026-10-22T11:59:46.000Z"
-        },
-        {
-          "headline": "New AI shopping agents promise better bargains. But who pays the price?",
-          "summary": "As AI agents begin shopping on our behalf, there's a real risk cheaper products could put more pressure on vulnerable workers in global supply chains.",
-          "source_name": "The Conversation",
-          "source_url": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461",
-          "published_at": "2026-10-19T19:15:36.000Z"
         }
       ]
     },
@@ -54,6 +47,13 @@
       "key": "news",
       "label": "News",
       "items": [
+        {
+          "headline": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+          "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
+          "source_name": "NPR Technology",
+          "source_url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+          "published_at": "2026-11-18T10:00:00.000Z"
+        },
         {
           "headline": "She went to college to become a social worker. Now she's joined the skilled trades",
           "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
@@ -67,13 +67,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
           "published_at": "2026-11-15T14:00:19.000Z"
-        },
-        {
-          "headline": "US workers are fighting to protect their jobs from AI, and winning",
-          "summary": "As governments adopt AI, workers are gaining ground in how it's used and securing safeguards against its harms",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-          "published_at": "2026-11-12T15:00:44.000Z"
         }
       ]
     }
@@ -137,7 +130,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 0
+      "kept": 1
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-18T07:22:35.167Z",
+  "updated_at": "2026-11-18T20:27:49.394Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Security flaw found in Java, world's third-largest programming language",
-          "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-18T05:33:13.000Z"
+          "headline": "How much do freelance designers really make?",
+          "summary": "How much is freelance design really worth? Fast Company's original survey of 1,273 designers exposes the numbers behind their incomes, project rates, the business of creative work and of course, AI .",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91644958/how-much-do-freelance-designers-really-make",
+          "published_at": "2026-11-18T19:00:00.000Z"
         },
         {
-          "headline": "Jeff Bezos says blaming Big Tech won't fix America's problems",
-          "summary": "The Amazon founder says politicians are making Big Tech a villain as voters focus on economic inequality, AI safety, and data centers.",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/jeff-bezos-big-tech-political-technique-villain-2026-11",
-          "published_at": "2026-11-18T05:01:01.000Z"
+          "headline": "Your Business Is Saving Hours With AI. So Why Are Customers Still Waiting?",
+          "summary": "Before investing in another automation tool, ask whether the time you're saving is actually improving your customers' experience.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/your-business-is-saving-hours-with-ai-so-why-are-customers-still-waiting",
+          "published_at": "2026-11-18T18:00:00.000Z"
         },
         {
-          "headline": "Wonder Unveils AI-Powered Restaurant Builder as Marc Lore Pushes Toward a Fully Automated Food Business",
-          "summary": "Marc Lore's food-tech startup Wonder unveiled a tool that uses AI to create restaurant concepts, menus, recipes, branding, and marketing materials.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/jennifer-conrad/wonder-unveils-ai-powered-restaurant-builder-as-marc-lore-pushes-toward-a-fully-automated-food-business/91437793",
-          "published_at": "2026-11-17T23:00:00.000Z"
+          "headline": "This 54-Year-Old Left Her Full-Time Therapist Job to Focus on a Flavorful Side Hustle Making $10K a Month on Amazon: 'I Used ChatGPT'",
+          "summary": "Lana Wimmer wanted to bring a different kind of beverage to market.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/side-hustle/this-54-year-old-left-her-full-time-therapist-job-to-focus-on-a-flavorful-side-hustle-making-10k-a-month-on-amazon-i-used-chatgpt",
+          "published_at": "2026-11-18T17:41:22.000Z"
         }
       ]
     }
@@ -110,17 +110,17 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 1
+      "kept": 4
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
@@ -130,7 +130,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "The New York Times Small Business",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 2
+      "kept": 3
     },
     {
       "source": "Bloomberg",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Business News Daily",
@@ -189,8 +189,8 @@
     },
     {
       "source": "MarketWatch",
-      "ok": false,
-      "error": "HTTP 400"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "Yahoo Finance",
