@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-18T20:27:49.394Z",
+  "updated_at": "2026-11-19T20:31:35.668Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -28,6 +28,13 @@
       "label": "Research",
       "items": [
         {
+          "headline": "With AI blamed for mass layoffs, here's how we can ensure workers get a fairer go",
+          "summary": "A string of mass redundancies highlights the need to strengthen workers' rights. Countries such as Germany and Denmark offer approaches that could work here, too.",
+          "source_name": "The Conversation",
+          "source_url": "https://theconversation.com/with-ai-blamed-for-mass-layoffs-heres-how-we-can-ensure-workers-get-a-fairer-go-296948",
+          "published_at": "2026-11-19T19:05:25.000Z"
+        },
+        {
           "headline": "AI is set to change the graduate job market. Here's how unis can respond",
           "summary": "Tech companies are pursuing artificial intelligence systems capable of matching or exceeding human performance across a broad range of intellectual tasks.",
           "source_name": "The Conversation",
@@ -48,6 +55,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "When tech workers have to quit their jobs to raise the alarm, it's time to worry | Isabelle Ferreras",
+          "summary": "We can't make AI safe for humanity if tech bosses are allowed to run their companies like autocracies",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
+          "published_at": "2026-11-19T08:59:17.000Z"
+        },
+        {
           "headline": "OpenAI announces new AI safety program; researchers worry it won't be enough",
           "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
           "source_name": "NPR Technology",
@@ -60,13 +74,6 @@
           "source_name": "NPR",
           "source_url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
           "published_at": "2026-11-17T10:00:00.000Z"
-        },
-        {
-          "headline": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
-          "summary": "The role AI played in job losses at Australia's NAB, Qantas, Canva and Atlassian is far from clear, but it may prove to have more impact on the stock market than the jobs market",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
-          "published_at": "2026-11-15T14:00:19.000Z"
         }
       ]
     }
@@ -80,7 +87,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "EMCC Global",
@@ -110,7 +117,7 @@
     {
       "source": "The Conversation",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "MIT Technology Review",
@@ -120,7 +127,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "BBC News",

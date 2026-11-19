@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-19T07:20:04.747Z",
+  "updated_at": "2026-11-19T20:31:35.668Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "The seven Anthropic founders who are about to become multi-billionaires",
-          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-          "source_name": "BBC News",
-          "source_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-18T23:42:07.000Z"
+          "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+          "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+          "source_name": "MarketWatch",
+          "source_url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+          "published_at": "2026-11-19T20:28:00.000Z"
         },
         {
-          "headline": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
-          "summary": "The startup was founded last year by former OpenAI researchers and specializes in customizing open-weight AI models.",
-          "source_name": "The Wall Street Journal",
-          "source_url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=pls_whats_news_us_business_f",
-          "published_at": "2026-11-18T21:00:00.000Z"
-        },
-        {
-          "headline": "The Rooms Where AI Gets Decided Are Filling Up. Women Need to Be in Them",
-          "summary": "AI is redrawing the path to leadership within companies, and women risk being left out.",
+          "headline": "More Than 20,000 Small Businesses Use His Technology. Here's His Data-Driven Advice, And AI Shortcuts, for Capitalizing On a $1 Trillion Holiday Season.",
+          "summary": "Andrew Stern, co-founder and CEO of Quilt Software, breaks down the success strategies.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/the-rooms-where-ai-gets-decided-are-filling-up-women-need-to-be-in-them",
-          "published_at": "2026-11-18T20:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/more-than-20000-small-businesses-use-his-technology-heres-his-data-driven-advice-and-specific-ai-tools",
+          "published_at": "2026-11-19T18:24:45.000Z"
+        },
+        {
+          "headline": "Anthropic's $81 Billion IPO Is the Biggest Ever, Here's Who's Getting Rich and Who Missed Out",
+          "summary": "The company behind the popular AI chatbot Claude is now a $2 trillion public company. Not everyone is happy.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/anthropics-81-billion-ipo-is-the-biggest-ever-heres-whos-getting-rich-and-who-missed-out",
+          "published_at": "2026-11-19T18:01:29.000Z"
         }
       ]
     }
@@ -105,22 +105,22 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 0
+      "kept": 3
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 4
+      "kept": 3
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Axios",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 4
+      "kept": 3
     },
     {
       "source": "Bloomberg",
@@ -190,7 +190,7 @@
     {
       "source": "MarketWatch",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Yahoo Finance",
