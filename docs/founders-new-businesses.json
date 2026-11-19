@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-18T20:27:49.394Z",
+  "updated_at": "2026-11-19T07:20:04.747Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "How much do freelance designers really make?",
-          "summary": "How much is freelance design really worth? Fast Company's original survey of 1,273 designers exposes the numbers behind their incomes, project rates, the business of creative work and of course, AI .",
-          "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91644958/how-much-do-freelance-designers-really-make",
-          "published_at": "2026-11-18T19:00:00.000Z"
+          "headline": "The seven Anthropic founders who are about to become multi-billionaires",
+          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T23:42:07.000Z"
         },
         {
-          "headline": "Your Business Is Saving Hours With AI. So Why Are Customers Still Waiting?",
-          "summary": "Before investing in another automation tool, ask whether the time you're saving is actually improving your customers' experience.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/your-business-is-saving-hours-with-ai-so-why-are-customers-still-waiting",
-          "published_at": "2026-11-18T18:00:00.000Z"
+          "headline": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+          "summary": "The startup was founded last year by former OpenAI researchers and specializes in customizing open-weight AI models.",
+          "source_name": "The Wall Street Journal",
+          "source_url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=pls_whats_news_us_business_f",
+          "published_at": "2026-11-18T21:00:00.000Z"
         },
         {
-          "headline": "This 54-Year-Old Left Her Full-Time Therapist Job to Focus on a Flavorful Side Hustle Making $10K a Month on Amazon: 'I Used ChatGPT'",
-          "summary": "Lana Wimmer wanted to bring a different kind of beverage to market.",
+          "headline": "The Rooms Where AI Gets Decided Are Filling Up. Women Need to Be in Them",
+          "summary": "AI is redrawing the path to leadership within companies, and women risk being left out.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/side-hustle/this-54-year-old-left-her-full-time-therapist-job-to-focus-on-a-flavorful-side-hustle-making-10k-a-month-on-amazon-i-used-chatgpt",
-          "published_at": "2026-11-18T17:41:22.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/the-rooms-where-ai-gets-decided-are-filling-up-women-need-to-be-in-them",
+          "published_at": "2026-11-18T20:00:00.000Z"
         }
       ]
     }
@@ -105,12 +105,12 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "Bloomberg",
