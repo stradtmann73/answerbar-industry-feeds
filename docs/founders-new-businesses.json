@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-19T20:31:35.668Z",
+  "updated_at": "2026-11-20T07:10:16.911Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Anthropic Founders' Lock-Up Restrictions and Future AI Trade",
+          "summary": "Shares closed this afternoon at $97.17 for the AI giant, 17% higher than the IPO price.",
+          "source_name": "Bloomberg",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-founders-lock-up-restrictions-and-future-ai-trade",
+          "published_at": "2026-11-19T22:55:59.000Z"
+        },
+        {
           "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
           "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
           "source_name": "MarketWatch",
@@ -40,18 +47,11 @@
           "published_at": "2026-11-19T20:28:00.000Z"
         },
         {
-          "headline": "More Than 20,000 Small Businesses Use His Technology. Here's His Data-Driven Advice, And AI Shortcuts, for Capitalizing On a $1 Trillion Holiday Season.",
-          "summary": "Andrew Stern, co-founder and CEO of Quilt Software, breaks down the success strategies.",
+          "headline": "SEO Isn't Over, But Google Is Losing Its Monopoly. Here's How to Adapt.",
+          "summary": "The shift from traditional search to AI-powered discovery is changing the future of digital marketing.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/more-than-20000-small-businesses-use-his-technology-heres-his-data-driven-advice-and-specific-ai-tools",
-          "published_at": "2026-11-19T18:24:45.000Z"
-        },
-        {
-          "headline": "Anthropic's $81 Billion IPO Is the Biggest Ever, Here's Who's Getting Rich and Who Missed Out",
-          "summary": "The company behind the popular AI chatbot Claude is now a $2 trillion public company. Not everyone is happy.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/anthropics-81-billion-ipo-is-the-biggest-ever-heres-whos-getting-rich-and-who-missed-out",
-          "published_at": "2026-11-19T18:01:29.000Z"
+          "source_url": "https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt",
+          "published_at": "2026-11-19T19:30:00.000Z"
         }
       ]
     }
@@ -105,17 +105,17 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 3
+      "kept": 1
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 3
+      "kept": 5
     },
     {
       "source": "Fast Company",
@@ -150,7 +150,7 @@
     {
       "source": "Bloomberg",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Forbes Entrepreneurs",
