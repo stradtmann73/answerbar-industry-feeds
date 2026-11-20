@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-20T07:10:16.911Z",
+  "updated_at": "2026-11-20T20:11:05.847Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Anthropic Founders' Lock-Up Restrictions and Future AI Trade",
-          "summary": "Shares closed this afternoon at $97.17 for the AI giant, 17% higher than the IPO price.",
-          "source_name": "Bloomberg",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-founders-lock-up-restrictions-and-future-ai-trade",
-          "published_at": "2026-11-19T22:55:59.000Z"
+          "headline": "Homebase's Rushi Patel and Tiny Health's Cheryl Sew Hoy on Getting More Value From AI",
+          "summary": "Small businesses are already using AI. Patel and Sew Hoy explain why the harder part now is giving teams time to learn it, using agents without wasting employees' time, and choosing tools that actually make work easier.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/inc-video/homebases-rushi-patel-and-tiny-healths-cheryl-sew-hoy-on-getting-more-value-from-ai/91440468",
+          "published_at": "2026-11-20T17:19:24.000Z"
         },
         {
-          "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-          "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-          "source_name": "MarketWatch",
-          "source_url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-          "published_at": "2026-11-19T20:28:00.000Z"
+          "headline": "You Don't Need a Silicon Valley Rolodex to Compete in the AI Economy",
+          "summary": "Big Tech has the money. Small businesses have new tools.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/ash-kumra/you-dont-need-a-silicon-valley-rolodex-to-compete-in-the-ai-economy/91439727",
+          "published_at": "2026-11-20T16:00:00.000Z"
         },
         {
-          "headline": "SEO Isn't Over, But Google Is Losing Its Monopoly. Here's How to Adapt.",
-          "summary": "The shift from traditional search to AI-powered discovery is changing the future of digital marketing.",
+          "headline": "Comparing Franchises? Make Sure AI is Working For You, Not Against You",
+          "summary": "AI is a useful tool in the middle phase of franchise research, but NOT at the beginning or end, here's why.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt",
-          "published_at": "2026-11-19T19:30:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/comparing-franchises-make-sure-ai-is-working-for-you-not-against-you",
+          "published_at": "2026-11-20T15:00:00.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fortune",
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 5
+      "kept": 3
     },
     {
       "source": "Fast Company",
@@ -130,7 +130,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "The New York Times Small Business",
@@ -150,7 +150,7 @@
     {
       "source": "Bloomberg",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Forbes Entrepreneurs",
@@ -190,7 +190,7 @@
     {
       "source": "MarketWatch",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Yahoo Finance",

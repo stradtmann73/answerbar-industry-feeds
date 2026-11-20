@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-19T20:31:35.668Z",
+  "updated_at": "2026-11-20T20:11:05.847Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -55,6 +55,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
+          "summary": "It's time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+          "published_at": "2026-11-20T11:00:31.000Z"
+        },
+        {
           "headline": "When tech workers have to quit their jobs to raise the alarm, it's time to worry | Isabelle Ferreras",
           "summary": "We can't make AI safe for humanity if tech bosses are allowed to run their companies like autocracies",
           "source_name": "The Guardian",
@@ -67,13 +74,6 @@
           "source_name": "NPR Technology",
           "source_url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
           "published_at": "2026-11-18T10:00:00.000Z"
-        },
-        {
-          "headline": "She went to college to become a social worker. Now she's joined the skilled trades",
-          "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
-          "source_name": "NPR",
-          "source_url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-          "published_at": "2026-11-17T10:00:00.000Z"
         }
       ]
     }
