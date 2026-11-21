@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-20T20:11:05.847Z",
+  "updated_at": "2026-11-21T07:01:19.161Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -55,25 +55,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "'The doom of humanity': will the quest to make robotic hands render us obsolete?",
+          "summary": "The one thing stopping AI taking over the world, or at least everyone's jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+          "published_at": "2026-11-21T06:00:52.000Z"
+        },
+        {
+          "headline": "Machine Gods: Anthropic's early days",
+          "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety...",
+          "source_name": "NPR Technology",
+          "source_url": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+          "published_at": "2026-11-20T21:38:14.000Z"
+        },
+        {
           "headline": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
           "summary": "It's time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers",
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
           "published_at": "2026-11-20T11:00:31.000Z"
-        },
-        {
-          "headline": "When tech workers have to quit their jobs to raise the alarm, it's time to worry | Isabelle Ferreras",
-          "summary": "We can't make AI safe for humanity if tech bosses are allowed to run their companies like autocracies",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
-          "published_at": "2026-11-19T08:59:17.000Z"
-        },
-        {
-          "headline": "OpenAI announces new AI safety program; researchers worry it won't be enough",
-          "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
-          "source_name": "NPR Technology",
-          "source_url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
-          "published_at": "2026-11-18T10:00:00.000Z"
         }
       ]
     }
@@ -127,7 +127,7 @@
     {
       "source": "The Guardian",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "BBC News",
@@ -137,7 +137,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 1
+      "kept": 2
     }
   ]
 }
