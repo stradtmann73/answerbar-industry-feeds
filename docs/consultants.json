@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-21T07:01:19.161Z",
+  "updated_at": "2026-11-21T19:11:26.471Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -40,13 +40,6 @@
           "source_name": "The Conversation",
           "source_url": "https://theconversation.com/ai-is-set-to-change-the-graduate-job-market-heres-how-unis-can-respond-295450",
           "published_at": "2026-11-15T17:25:31.000Z"
-        },
-        {
-          "headline": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
-          "summary": "Men's employment grew faster than women's in occupations most exposed to AI, a gap driven largely by workers without a bachelor's degree.",
-          "source_name": "Pew Research Center",
-          "source_url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
-          "published_at": "2026-10-22T11:59:46.000Z"
         }
       ]
     },
@@ -137,7 +130,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 2
+      "kept": 1
     }
   ]
 }

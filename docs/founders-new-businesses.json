@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-21T07:01:19.161Z",
+  "updated_at": "2026-11-21T19:11:26.471Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "Anthropic IPO signals 'beginning of a gold rush' for small businesses, says biz tech CEO",
+          "summary": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, says Novo CEO Michael Rangel, as small business AI adoption jumped to one in eight.",
+          "source_name": "Fox Business",
+          "source_url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+          "published_at": "2026-11-21T18:06:16.000Z"
+        },
+        {
+          "headline": "Give Me 10 Minutes and I'll Make You Dangerously Smart (with AI)",
+          "summary": "Most entrepreneurs are using AI to get work done faster. But what if it's moving their businesses in the wrong direction? AI can now help entrepreneurs produce marketing campaigns, research competitors, develop...",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/building-a-business/give-me-10-minutes-and-ill-make-you-dangerously-smart-with-ai",
+          "published_at": "2026-11-21T03:00:00.000Z"
+        },
+        {
           "headline": "AI Is Fueling a New Startup Boom. Here's How to Build a Business That Lasts.",
           "summary": "AI is making it cheaper and easier than ever to launch a business, but the founders who succeed will be the ones who start lean and spend strategically.",
           "source_name": "Entrepreneur",
           "source_url": "https://www.entrepreneur.com/building-a-business/grow-your-business/ai-is-fueling-a-new-startup-boom-heres-how-to-build-a-business-that-lasts",
           "published_at": "2026-11-20T23:00:00.000Z"
-        },
-        {
-          "headline": "Many Etsy Sellers Close Up Shop Over Site's New A.I. Policy",
-          "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-          "source_name": "The New York Times Small Business",
-          "source_url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-          "published_at": "2026-11-20T21:50:44.000Z"
-        },
-        {
-          "headline": "Homebase's Rushi Patel and Tiny Health's Cheryl Sew Hoy on Getting More Value From AI",
-          "summary": "Small businesses are already using AI. Patel and Sew Hoy explain why the harder part now is giving teams time to learn it, using agents without wasting employees' time, and choosing tools that actually make work easier.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/inc-video/homebases-rushi-patel-and-tiny-healths-cheryl-sew-hoy-on-getting-more-value-from-ai/91440468",
-          "published_at": "2026-11-20T17:19:24.000Z"
         }
       ]
     }
@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Fortune",
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Fast Company",
@@ -185,7 +185,7 @@
     {
       "source": "Fox Business",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "MarketWatch",
