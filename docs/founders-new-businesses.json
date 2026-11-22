@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-22T06:42:42.561Z",
+  "updated_at": "2026-11-22T19:33:35.902Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Anthropic IPO signals 'beginning of a gold rush' for small businesses, says biz tech CEO",
-          "summary": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, says Novo CEO Michael Rangel, as small business AI adoption jumped to one in eight.",
-          "source_name": "Fox Business",
-          "source_url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
-          "published_at": "2026-11-21T18:06:16.000Z"
-        },
-        {
-          "headline": "This Is the Reason Your AI Tools Actually Remember Anything",
-          "summary": "These are the two AI tools I used to ensure mine ran smoothly, efficiently and retained the right knowledge.",
+          "headline": "AI Is Helping Your Team Do More. That Doesn't Mean They Can Handle More.",
+          "summary": "Your team may be busy thanks to AI, but robotic productivity is a poor substitute for outstanding human performance.",
           "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/this-is-the-reason-your-ai-tools-actually-remember-anything",
-          "published_at": "2026-11-21T18:00:00.000Z"
+          "source_url": "https://www.entrepreneur.com/business-news/ai-is-helping-your-team-do-more-that-doesnt-mean-they-can-handle-more",
+          "published_at": "2026-11-22T19:00:00.000Z"
         },
         {
-          "headline": "Many Etsy Sellers Close Up Shop Over Site's New A.I. Policy",
-          "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-          "source_name": "The New York Times Small Business",
-          "source_url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-          "published_at": "2026-11-21T14:04:25.000Z"
+          "headline": "She was a go-to Manhattan babysitter as a teen. Now she's running a $100 million-a-year AI startup whose clients include the billionaire Koch family",
+          "summary": "Tribe AI CEO Jaclyn Rice Nelson has parlayed a knack for building relationships into a $100 million AI startup whose revenue nearly quadrupled in a year.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/22/tribe-ai-cofounder-ceo-jaclyn-rice-nelson-scaling-startup-100-million-revenue-career-success-koch-industries/",
+          "published_at": "2026-11-22T11:00:00.000Z"
+        },
+        {
+          "headline": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+          "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing.",
+          "source_name": "Fast Company",
+          "source_url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
+          "published_at": "2026-11-22T10:11:00.000Z"
         }
       ]
     }
@@ -105,22 +105,22 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Axios",
