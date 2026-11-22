@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-21T19:11:26.471Z",
+  "updated_at": "2026-11-22T06:42:42.561Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,6 +48,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "Google employees protest AI in schools policy",
+          "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+          "source_name": "NPR Technology",
+          "source_url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+          "published_at": "2026-11-21T22:01:40.000Z"
+        },
+        {
           "headline": "'The doom of humanity': will the quest to make robotic hands render us obsolete?",
           "summary": "The one thing stopping AI taking over the world, or at least everyone's jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that",
           "source_name": "The Guardian",
@@ -60,13 +67,6 @@
           "source_name": "NPR Technology",
           "source_url": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
           "published_at": "2026-11-20T21:38:14.000Z"
-        },
-        {
-          "headline": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
-          "summary": "It's time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers",
-          "source_name": "The Guardian",
-          "source_url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-          "published_at": "2026-11-20T11:00:31.000Z"
         }
       ]
     }
@@ -130,7 +130,7 @@
     {
       "source": "NPR Technology",
       "ok": true,
-      "kept": 1
+      "kept": 2
     }
   ]
 }
