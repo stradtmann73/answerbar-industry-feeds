@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-22T19:33:35.902Z",
+  "updated_at": "2026-11-23T23:50:22.105Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "AI Is Helping Your Team Do More. That Doesn't Mean They Can Handle More.",
-          "summary": "Your team may be busy thanks to AI, but robotic productivity is a poor substitute for outstanding human performance.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/ai-is-helping-your-team-do-more-that-doesnt-mean-they-can-handle-more",
-          "published_at": "2026-11-22T19:00:00.000Z"
-        },
-        {
-          "headline": "She was a go-to Manhattan babysitter as a teen. Now she's running a $100 million-a-year AI startup whose clients include the billionaire Koch family",
-          "summary": "Tribe AI CEO Jaclyn Rice Nelson has parlayed a knack for building relationships into a $100 million AI startup whose revenue nearly quadrupled in a year.",
+          "headline": "AI startups feared Nvidia's money would dry up without Jensen Huang. His return as CEO has put those fears to rest",
+          "summary": "For nearly two weeks, investors worried that Nvidia's investments and credit backstops could stall under an interim CEO. Huang's return has calmed those fears.",
           "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/22/tribe-ai-cofounder-ceo-jaclyn-rice-nelson-scaling-startup-100-million-revenue-career-success-koch-industries/",
-          "published_at": "2026-11-22T11:00:00.000Z"
+          "source_url": "https://fortune.com/2026/11/23/nvidia-jensen-huang-return-ai-startups-neoclouds-funding/",
+          "published_at": "2026-11-23T21:21:05.000Z"
         },
         {
-          "headline": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
-          "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing.",
+          "headline": "Memory chip and neocloud stocks soar by double digits as investors decide they love the AI trade again",
+          "summary": "In a stunning turnaround, Nvidia's board reinstated ousted founder Jensen Huang as chief executive, president, and as a member of the board, effective immediately on Monday, sending Nvidia's (Nasdaq: NVDA ) stock...",
           "source_name": "Fast Company",
-          "source_url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
-          "published_at": "2026-11-22T10:11:00.000Z"
+          "source_url": "https://www.fastcompany.com/91647598/memory-chip-neocloud-stocks-why-micron-sandisk-coreweave-are-up",
+          "published_at": "2026-11-23T18:06:00.000Z"
+        },
+        {
+          "headline": "AI Is Accelerating Software Development, But Businesses Need a Better Way to Measure the Quality of What They Ship",
+          "summary": "AI-assisted development has quietly made the metrics boards rely on unreliable.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/tech/ai-is-accelerating-software-development-but-businesses-need-a-better-way-to-measure-the-quality-of-what-they-ship",
+          "published_at": "2026-11-23T18:00:00.000Z"
         }
       ]
     }
@@ -120,7 +120,7 @@
     {
       "source": "Fast Company",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "Axios",
