@@ -1,7 +1,7 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-22T06:42:42.561Z",
+  "updated_at": "2026-11-23T07:31:37.795Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -48,6 +48,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+          "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+          "source_name": "BBC News",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:08:00.000Z"
+        },
+        {
           "headline": "Google employees protest AI in schools policy",
           "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
           "source_name": "NPR Technology",
@@ -60,13 +67,6 @@
           "source_name": "The Guardian",
           "source_url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
           "published_at": "2026-11-21T06:00:52.000Z"
-        },
-        {
-          "headline": "Machine Gods: Anthropic's early days",
-          "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety...",
-          "source_name": "NPR Technology",
-          "source_url": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
-          "published_at": "2026-11-20T21:38:14.000Z"
         }
       ]
     }
@@ -74,8 +74,8 @@
   "sources": [
     {
       "source": "Chartered Management Institute",
-      "ok": true,
-      "kept": 2
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "source": "Institute of Management Consultants USA",
@@ -125,7 +125,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "NPR Technology",

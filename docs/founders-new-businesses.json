@@ -130,7 +130,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "The New York Times Small Business",
@@ -145,7 +145,7 @@
     {
       "source": "The Wall Street Journal",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Bloomberg",
