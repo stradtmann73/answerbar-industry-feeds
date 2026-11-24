@@ -80,7 +80,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "EMCC Global",
@@ -110,7 +110,7 @@
     {
       "source": "The Conversation",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "MIT Technology Review",
