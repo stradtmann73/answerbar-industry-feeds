@@ -1,12 +1,19 @@
 {
   "industry": "consultants",
   "title": "Independent consultants and coaches",
-  "updated_at": "2026-11-23T07:31:37.795Z",
+  "updated_at": "2026-11-25T08:26:56.400Z",
   "columns": [
     {
       "key": "professional_bodies",
       "label": "Professional bodies",
       "items": [
+        {
+          "headline": "The Phishing Scam I Almost Fell for Started as a Consulting Inquiry",
+          "summary": "I work in technology, cybersecurity, and AI, and I still came close to falling for a phishing scam. It started with an email that looked like the kind of inquiry",
+          "source_name": "Institute of Management Consultants USA",
+          "source_url": "https://www.imcusa.org/the-phishing-scam-i-almost-fell-for-started-as-a-consulting-inquiry/",
+          "published_at": "2026-11-10T12:23:00.000Z"
+        },
         {
           "headline": "The human connection: why empathy is a manager's unique edge in the age of AI",
           "summary": "Reflections on a CMI Malaysia roundtable, held on 26 October 2026 in Kuala Lumpur",
@@ -80,7 +87,7 @@
     {
       "source": "Institute of Management Consultants USA",
       "ok": true,
-      "kept": 1
+      "kept": 2
     },
     {
       "source": "EMCC Global",
