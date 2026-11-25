@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-25T08:26:56.400Z",
+  "updated_at": "2026-11-25T21:38:43.498Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
-          "headline": "Backed by Samsung, SK Hynix, and the Korean government, Rebellions CEO Sunghyun Park wants to prove sovereign AI pays off",
-          "summary": "The startup is part of a wave of challengers targeting Nvidia, focusing not on training AI models, but running them cheaply.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/2026/11/25/rebellions-ceo-samsung-sk-hynix-sovereign-ai-nvidia/",
-          "published_at": "2026-11-25T05:01:00.000Z"
+          "headline": "75 Percent of Holiday Shoppers Want to Buy From a Small Business, and Many Are Asking AI for Ideas. Take 4 Steps to Get Recommended",
+          "summary": "With 65 percent of holiday shoppers turning to AI for gift ideas, chatbots are the new storefront. Here are 4 ways small businesses can get recommended by ChatGPT, Gemini, and Perplexity, without blowing their ad budget.",
+          "source_name": "Inc.",
+          "source_url": "https://www.inc.com/sneha-saigal/75-percent-of-holiday-shoppers-want-to-buy-from-a-small-business-and-many-are-asking-ai-for-ideas-take-4-steps-to-get-recommended/91435732",
+          "published_at": "2026-11-25T19:33:37.000Z"
         },
         {
-          "headline": "Small Businesses Can't Outspend Big Brands on Digital Ads. This Founder Thinks They Can Outsmart Them",
-          "summary": "AI is upending the ad buying business, and it could help level the playing field.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/marc-berman/small-businesses-cant-outspend-big-brands-on-digital-ads-this-founder-thinks-they-can-outsmart-them/91441440",
-          "published_at": "2026-11-24T20:30:00.000Z"
+          "headline": "Former Tesla engineer says AI will create more 'fake jobs', not mass unemployment",
+          "summary": "Tejas Bhakta, the founder of Morph and a former Tesla machine learning engineer, said a lot of today's jobs are basically \"UBI right now.\"",
+          "source_name": "Business Insider",
+          "source_url": "https://www.businessinsider.com/tesla-engineer-ai-jobs-unemployment-founder-2026-11",
+          "published_at": "2026-11-25T17:48:54.000Z"
         },
         {
-          "headline": "Etsy Promised to 'Keep Commerce Human', Now Creators Are Fleeing Over AI Terms Before Small Business Saturday",
-          "summary": "Even as Etsy promises revisions and defends creator ownership, rising doubts over mass-produced listings and AI training are testing how much confidence shoppers and makers have left.",
-          "source_name": "Inc.",
-          "source_url": "https://www.inc.com/danielle-forte/etsy-new-ai-terms-sellers-leaving-small-business-saturday/91440409",
-          "published_at": "2026-11-24T15:13:05.000Z"
+          "headline": "A 4-Question Test for Deciding Where AI Belongs in Your Business",
+          "summary": "Every business is adopting AI. The businesses that utilize it best are the ones that know where to put it and how to test it.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/tech/a-4-question-test-for-deciding-where-ai-belongs-in-your-business",
+          "published_at": "2026-11-25T17:00:00.000Z"
         }
       ]
     }
@@ -105,17 +105,17 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 0
+      "kept": 2
     },
     {
       "source": "Fast Company",
@@ -160,7 +160,7 @@
     {
       "source": "Business Insider",
       "ok": true,
-      "kept": 0
+      "kept": 1
     },
     {
       "source": "Business News Daily",
