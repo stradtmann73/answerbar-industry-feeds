@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-25T21:38:43.498Z",
+  "updated_at": "2026-11-26T08:11:42.950Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,25 +33,25 @@
       "label": "News",
       "items": [
         {
+          "headline": "Stop Using AI as an Excuse for Layoffs. Here's How to Use AI to Retain Talent Instead",
+          "summary": "How to use AI to make your team more capable, not smaller.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead",
+          "published_at": "2026-11-26T00:00:00.000Z"
+        },
+        {
+          "headline": "Top 10 Best Office Gadgets On Sale for Black Friday",
+          "summary": "From Aura digital picture frames to the Pocket AI voice recorder, here are great office gadgets that are discounted for Black Friday.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/business-news/top-10-best-office-gadgets-on-sale-for-black-friday",
+          "published_at": "2026-11-25T19:53:47.000Z"
+        },
+        {
           "headline": "75 Percent of Holiday Shoppers Want to Buy From a Small Business, and Many Are Asking AI for Ideas. Take 4 Steps to Get Recommended",
           "summary": "With 65 percent of holiday shoppers turning to AI for gift ideas, chatbots are the new storefront. Here are 4 ways small businesses can get recommended by ChatGPT, Gemini, and Perplexity, without blowing their ad budget.",
           "source_name": "Inc.",
           "source_url": "https://www.inc.com/sneha-saigal/75-percent-of-holiday-shoppers-want-to-buy-from-a-small-business-and-many-are-asking-ai-for-ideas-take-4-steps-to-get-recommended/91435732",
           "published_at": "2026-11-25T19:33:37.000Z"
-        },
-        {
-          "headline": "Former Tesla engineer says AI will create more 'fake jobs', not mass unemployment",
-          "summary": "Tejas Bhakta, the founder of Morph and a former Tesla machine learning engineer, said a lot of today's jobs are basically \"UBI right now.\"",
-          "source_name": "Business Insider",
-          "source_url": "https://www.businessinsider.com/tesla-engineer-ai-jobs-unemployment-founder-2026-11",
-          "published_at": "2026-11-25T17:48:54.000Z"
-        },
-        {
-          "headline": "A 4-Question Test for Deciding Where AI Belongs in Your Business",
-          "summary": "Every business is adopting AI. The businesses that utilize it best are the ones that know where to put it and how to test it.",
-          "source_name": "Entrepreneur",
-          "source_url": "https://www.entrepreneur.com/business-news/tech/a-4-question-test-for-deciding-where-ai-belongs-in-your-business",
-          "published_at": "2026-11-25T17:00:00.000Z"
         }
       ]
     }
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 2
+      "kept": 4
     },
     {
       "source": "Fast Company",
