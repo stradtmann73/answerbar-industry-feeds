@@ -1,7 +1,7 @@
 {
   "industry": "founders-new-businesses",
   "title": "Founders and new businesses",
-  "updated_at": "2026-11-26T21:27:45.900Z",
+  "updated_at": "2026-11-27T08:22:54.018Z",
   "columns": [
     {
       "key": "professional_bodies",
@@ -33,6 +33,13 @@
       "label": "News",
       "items": [
         {
+          "headline": "The Simple AI Framework I Use to Cut Administrative Waste",
+          "summary": "AI delivers the greatest business impact when it's implemented strategically to eliminate repetitive administrative work, reduce burnout and free employees to focus on high-value, relationship-driven tasks.",
+          "source_name": "Entrepreneur",
+          "source_url": "https://www.entrepreneur.com/leadership/the-ai-adoption-framework-i-use-to-cut-administrative-waste/505132",
+          "published_at": "2026-11-27T01:00:00.000Z"
+        },
+        {
           "headline": "Should You Run Your Own AI or Pay a Provider? Here's How to Decide.",
           "summary": "Open-weight models finally give businesses a real choice between running AI on their own servers or renting it from the cloud.",
           "source_name": "Entrepreneur",
@@ -45,13 +52,6 @@
           "source_name": "Fortune",
           "source_url": "https://fortune.com/2026/11/26/american-express-is-giving-away-1-3-million-cash-to-british-small-business-owners-grant-apply-founders/",
           "published_at": "2026-11-26T14:36:11.000Z"
-        },
-        {
-          "headline": "A Mark Cuban-backed AI startup is helping families turn Thanksgiving conversations with their elderly relatives into lasting memories",
-          "summary": "As 81.5 million Americans travel for Thanksgiving, a new class of AI startups are helping people preserve the memories of their aging loved ones.",
-          "source_name": "Fortune",
-          "source_url": "https://fortune.com/article/mark-cuban-ai-startups-remento-kindred-tales-future-of-work-tech-thanksgiving-2026/",
-          "published_at": "2026-11-26T12:38:14.000Z"
         }
       ]
     }
@@ -110,12 +110,12 @@
     {
       "source": "Fortune",
       "ok": true,
-      "kept": 2
+      "kept": 0
     },
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 4
+      "kept": 5
     },
     {
       "source": "Fast Company",
@@ -189,8 +189,8 @@
     },
     {
       "source": "MarketWatch",
-      "ok": true,
-      "kept": 0
+      "ok": false,
+      "error": "HTTP 400"
     },
     {
       "source": "Yahoo Finance",
