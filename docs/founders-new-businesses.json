@@ -105,7 +105,7 @@
     {
       "source": "Inc.",
       "ok": true,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "Fortune",
@@ -115,7 +115,7 @@
     {
       "source": "Entrepreneur",
       "ok": true,
-      "kept": 5
+      "kept": 4
     },
     {
       "source": "Fast Company",
@@ -189,8 +189,8 @@
     },
     {
       "source": "MarketWatch",
-      "ok": false,
-      "error": "HTTP 400"
+      "ok": true,
+      "kept": 0
     },
     {
       "source": "Yahoo Finance",
